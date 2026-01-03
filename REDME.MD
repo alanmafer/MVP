@@ -46,3 +46,64 @@ O projeto segue uma arquitetura simples e incremental, priorizando clareza e bai
 
 ## 📁 Estrutura do projeto
 
+backend/
+├── app/
+│ ├── main.py
+│ ├── routers/
+│ ├── services/
+│ │ └── nba_client.py
+│ └── models/
+│
+├── scripts/
+│ ├── fetch_players.py
+│ └── fetch_player_stats.py
+│
+├── data/
+│ ├── raw/
+│ │ └── player_stats_<id>.json
+│ └── processed/
+│ └── player_stats_<id>.json
+│
+├── requirements.txt
+└── .gitignore
+
+
+---
+
+## 🚀 Como rodar os scripts
+
+Ative o ambiente virtual e execute os scripts **como módulo**:
+
+```bash
+cd backend
+venv\Scripts\activate   # Windows
+# source venv/bin/activate  # Linux / macOS
+
+python -m scripts.fetch_players
+python -m scripts.fetch_player_stats
+
+✅ Status do projeto
+
+ Escopo definido
+
+ Backend estruturado
+
+ Integração com NBA API
+
+ Dados brutos coletados
+
+ Dados normalizados em JSON
+
+ Métricas analíticas
+
+ Banco de dados
+
+ API de consulta
+
+ Frontend
+
+⚠️ Aviso legal
+
+Este projeto é apenas uma ferramenta de análise de dados esportivos.
+Não oferece apostas, não recomenda picks e não garante resultados financeiros.
+
