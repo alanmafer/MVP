@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from app.routers import health
+from app.routers import health, player
 
 app = FastAPI(
     title="NBA Players Props Analytics",
@@ -12,3 +12,4 @@ def root():
     return {"status": "ok"}
 
 app.include_router(health.router)
+app.include_router(player.router)
