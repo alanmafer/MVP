@@ -179,6 +179,33 @@ def analyze_player(player_id: int, line: float = 25.5) -> dict:
             "over_pct": over_percentage(last10_points, line)[2],
         },
     }
+    
+        # =====================================================
+    # Cenário 5 — Últimos 5 jogos em casa
+    # =====================================================
+    last_5_home_games = [
+        g for g in games[:5]
+        if "@" not in g["matchup"]
+    ]
+
+    last_5_home_points = [g["points"] for g in last_5_home_games]
+
+    result["scenarios"]["last_5_home"] = {
+        "games": len(last_5_home_points),
+        "average": (
+            average(last_5_home_points)
+            if last_5_home_points else None
+        ),
+        "median": (
+            median(last_5_home_points)
+            if last_5_home_points else None
+        ),
+        "over_pct": (
+            over_percentage(last_5_home_points, line)[2]
+            if last_5_home_points else None
+        ),
+    }
+
 
     # =====================================================
     # Salvar cache e retornar

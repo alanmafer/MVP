@@ -61,6 +61,12 @@
         "median": 11.0,
         "over_pct": 0.0
       }
+    },
+    "last_5_home": {
+      "games": 2,
+      "average": 11.0,
+      "median": 11.0,
+      "over_pct": 0.0
     }
   }
 }
