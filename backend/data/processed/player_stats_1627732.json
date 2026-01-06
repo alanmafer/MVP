@@ -1,0 +1,516 @@
+{
+  "player_id": 1627732,
+  "player_name": "Ben Simmons",
+  "games": [
+    {
+      "game_id": "0022400124",
+      "date": "Oct 30, 2024",
+      "season": "2024-25",
+      "matchup": "BKN @ MEM",
+      "minutes": 25,
+      "points": 8,
+      "fga": 5,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400098",
+      "date": "Oct 27, 2024",
+      "season": "2024-25",
+      "matchup": "BKN vs. MIL",
+      "minutes": 24,
+      "points": 2,
+      "fga": 3,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400077",
+      "date": "Oct 25, 2024",
+      "season": "2024-25",
+      "matchup": "BKN @ ORL",
+      "minutes": 24,
+      "points": 7,
+      "fga": 5,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400064",
+      "date": "Oct 23, 2024",
+      "season": "2024-25",
+      "matchup": "BKN @ ATL",
+      "minutes": 24,
+      "points": 6,
+      "fga": 4,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400043",
+      "date": "Nov 29, 2024",
+      "season": "2024-25",
+      "matchup": "BKN vs. ORL",
+      "minutes": 26,
+      "points": 4,
+      "fga": 2,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400297",
+      "date": "Nov 27, 2024",
+      "season": "2024-25",
+      "matchup": "BKN @ PHX",
+      "minutes": 27,
+      "points": 14,
+      "fga": 8,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400276",
+      "date": "Nov 24, 2024",
+      "season": "2024-25",
+      "matchup": "BKN @ SAC",
+      "minutes": 27,
+      "points": 4,
+      "fga": 3,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400027",
+      "date": "Nov 22, 2024",
+      "season": "2024-25",
+      "matchup": "BKN @ PHI",
+      "minutes": 26,
+      "points": 2,
+      "fga": 4,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400022",
+      "date": "Nov 19, 2024",
+      "season": "2024-25",
+      "matchup": "BKN vs. CHA",
+      "minutes": 26,
+      "points": 10,
+      "fga": 8,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400240",
+      "date": "Nov 17, 2024",
+      "season": "2024-25",
+      "matchup": "BKN @ NYK",
+      "minutes": 22,
+      "points": 0,
+      "fga": 3,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400014",
+      "date": "Nov 15, 2024",
+      "season": "2024-25",
+      "matchup": "BKN @ NYK",
+      "minutes": 25,
+      "points": 4,
+      "fga": 5,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400214",
+      "date": "Nov 11, 2024",
+      "season": "2024-25",
+      "matchup": "BKN @ NOP",
+      "minutes": 22,
+      "points": 6,
+      "fga": 5,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400187",
+      "date": "Nov 08, 2024",
+      "season": "2024-25",
+      "matchup": "BKN @ BOS",
+      "minutes": 27,
+      "points": 8,
+      "fga": 6,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400151",
+      "date": "Nov 03, 2024",
+      "season": "2024-25",
+      "matchup": "BKN vs. DET",
+      "minutes": 24,
+      "points": 4,
+      "fga": 4,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400136",
+      "date": "Nov 01, 2024",
+      "season": "2024-25",
+      "matchup": "BKN vs. CHI",
+      "minutes": 26,
+      "points": 8,
+      "fga": 5,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022401081",
+      "date": "Mar 30, 2025",
+      "season": "2024-25",
+      "matchup": "LAC @ CLE",
+      "minutes": 20,
+      "points": 4,
+      "fga": 3,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022401068",
+      "date": "Mar 28, 2025",
+      "season": "2024-25",
+      "matchup": "LAC @ BKN",
+      "minutes": 17,
+      "points": 0,
+      "fga": 3,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022401056",
+      "date": "Mar 26, 2025",
+      "season": "2024-25",
+      "matchup": "LAC @ NYK",
+      "minutes": 16,
+      "points": 2,
+      "fga": 4,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022401036",
+      "date": "Mar 23, 2025",
+      "season": "2024-25",
+      "matchup": "LAC vs. OKC",
+      "minutes": 15,
+      "points": 8,
+      "fga": 5,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022401023",
+      "date": "Mar 21, 2025",
+      "season": "2024-25",
+      "matchup": "LAC vs. MEM",
+      "minutes": 13,
+      "points": 0,
+      "fga": 1,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400997",
+      "date": "Mar 18, 2025",
+      "season": "2024-25",
+      "matchup": "LAC vs. CLE",
+      "minutes": 13,
+      "points": 0,
+      "fga": 1,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400538",
+      "date": "Mar 16, 2025",
+      "season": "2024-25",
+      "matchup": "LAC vs. CHA",
+      "minutes": 15,
+      "points": 0,
+      "fga": 3,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400960",
+      "date": "Mar 14, 2025",
+      "season": "2024-25",
+      "matchup": "LAC @ ATL",
+      "minutes": 17,
+      "points": 2,
+      "fga": 4,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400663",
+      "date": "Jan 29, 2025",
+      "season": "2024-25",
+      "matchup": "BKN @ CHA",
+      "minutes": 23,
+      "points": 10,
+      "fga": 6,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400585",
+      "date": "Jan 17, 2025",
+      "season": "2024-25",
+      "matchup": "BKN @ LAL",
+      "minutes": 27,
+      "points": 6,
+      "fga": 4,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400560",
+      "date": "Jan 14, 2025",
+      "season": "2024-25",
+      "matchup": "BKN @ POR",
+      "minutes": 26,
+      "points": 5,
+      "fga": 6,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400546",
+      "date": "Jan 12, 2025",
+      "season": "2024-25",
+      "matchup": "BKN @ UTA",
+      "minutes": 32,
+      "points": 14,
+      "fga": 11,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400531",
+      "date": "Jan 10, 2025",
+      "season": "2024-25",
+      "matchup": "BKN @ DEN",
+      "minutes": 22,
+      "points": 10,
+      "fga": 7,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400459",
+      "date": "Jan 01, 2025",
+      "season": "2024-25",
+      "matchup": "BKN @ TOR",
+      "minutes": 25,
+      "points": 2,
+      "fga": 6,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400859",
+      "date": "Feb 28, 2025",
+      "season": "2024-25",
+      "matchup": "LAC @ LAL",
+      "minutes": 16,
+      "points": 2,
+      "fga": 1,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400842",
+      "date": "Feb 26, 2025",
+      "season": "2024-25",
+      "matchup": "LAC @ CHI",
+      "minutes": 18,
+      "points": 6,
+      "fga": 8,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400813",
+      "date": "Feb 23, 2025",
+      "season": "2024-25",
+      "matchup": "LAC @ IND",
+      "minutes": 24,
+      "points": 8,
+      "fga": 7,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400793",
+      "date": "Feb 20, 2025",
+      "season": "2024-25",
+      "matchup": "LAC @ MIL",
+      "minutes": 20,
+      "points": 6,
+      "fga": 3,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022401004",
+      "date": "Feb 13, 2025",
+      "season": "2024-25",
+      "matchup": "LAC @ UTA",
+      "minutes": 27,
+      "points": 12,
+      "fga": 5,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400720",
+      "date": "Feb 05, 2025",
+      "season": "2024-25",
+      "matchup": "BKN vs. WAS",
+      "minutes": 18,
+      "points": 4,
+      "fga": 5,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400689",
+      "date": "Feb 01, 2025",
+      "season": "2024-25",
+      "matchup": "BKN @ HOU",
+      "minutes": 24,
+      "points": 2,
+      "fga": 4,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400436",
+      "date": "Dec 29, 2024",
+      "season": "2024-25",
+      "matchup": "BKN @ ORL",
+      "minutes": 31,
+      "points": 6,
+      "fga": 6,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400415",
+      "date": "Dec 26, 2024",
+      "season": "2024-25",
+      "matchup": "BKN @ MIL",
+      "minutes": 29,
+      "points": 8,
+      "fga": 9,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400396",
+      "date": "Dec 23, 2024",
+      "season": "2024-25",
+      "matchup": "BKN @ MIA",
+      "minutes": 30,
+      "points": 4,
+      "fga": 2,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400379",
+      "date": "Dec 21, 2024",
+      "season": "2024-25",
+      "matchup": "BKN vs. UTA",
+      "minutes": 29,
+      "points": 15,
+      "fga": 11,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400364",
+      "date": "Dec 19, 2024",
+      "season": "2024-25",
+      "matchup": "BKN @ TOR",
+      "minutes": 32,
+      "points": 12,
+      "fga": 9,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022401224",
+      "date": "Dec 16, 2024",
+      "season": "2024-25",
+      "matchup": "BKN vs. CLE",
+      "minutes": 31,
+      "points": 10,
+      "fga": 7,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022401211",
+      "date": "Dec 13, 2024",
+      "season": "2024-25",
+      "matchup": "BKN @ MEM",
+      "minutes": 21,
+      "points": 2,
+      "fga": 3,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400348",
+      "date": "Dec 08, 2024",
+      "season": "2024-25",
+      "matchup": "BKN vs. MIL",
+      "minutes": 18,
+      "points": 0,
+      "fga": 0,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400320",
+      "date": "Dec 04, 2024",
+      "season": "2024-25",
+      "matchup": "BKN vs. IND",
+      "minutes": 21,
+      "points": 7,
+      "fga": 3,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400305",
+      "date": "Dec 01, 2024",
+      "season": "2024-25",
+      "matchup": "BKN vs. ORL",
+      "minutes": 12,
+      "points": 0,
+      "fga": 1,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022401198",
+      "date": "Apr 13, 2025",
+      "season": "2024-25",
+      "matchup": "LAC @ GSW",
+      "minutes": 11,
+      "points": 0,
+      "fga": 0,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022401184",
+      "date": "Apr 11, 2025",
+      "season": "2024-25",
+      "matchup": "LAC @ SAC",
+      "minutes": 12,
+      "points": 0,
+      "fga": 0,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022401155",
+      "date": "Apr 08, 2025",
+      "season": "2024-25",
+      "matchup": "LAC vs. SAS",
+      "minutes": 15,
+      "points": 0,
+      "fga": 3,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022401132",
+      "date": "Apr 05, 2025",
+      "season": "2024-25",
+      "matchup": "LAC vs. DAL",
+      "minutes": 12,
+      "points": 2,
+      "fga": 1,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022401111",
+      "date": "Apr 02, 2025",
+      "season": "2024-25",
+      "matchup": "LAC vs. NOP",
+      "minutes": 12,
+      "points": 0,
+      "fga": 1,
+      "fg3a": 0
+    }
+  ]
+}

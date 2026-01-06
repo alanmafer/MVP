@@ -1,0 +1,896 @@
+{
+  "player_id": 203507,
+  "player_name": "Giannis Antetokounmpo",
+  "games": [
+    {
+      "game_id": "0022400128",
+      "date": "Oct 31, 2024",
+      "season": "2024-25",
+      "matchup": "MIL @ MEM",
+      "minutes": 34,
+      "points": 37,
+      "fga": 22,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022500125",
+      "date": "Oct 28, 2025",
+      "season": "2025-26",
+      "matchup": "MIL vs. NYK",
+      "minutes": 33,
+      "points": 37,
+      "fga": 22,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022400104",
+      "date": "Oct 28, 2024",
+      "season": "2024-25",
+      "matchup": "MIL @ BOS",
+      "minutes": 39,
+      "points": 30,
+      "fga": 26,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400098",
+      "date": "Oct 27, 2024",
+      "season": "2024-25",
+      "matchup": "MIL @ BKN",
+      "minutes": 33,
+      "points": 22,
+      "fga": 11,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022500107",
+      "date": "Oct 26, 2025",
+      "season": "2025-26",
+      "matchup": "MIL @ CLE",
+      "minutes": 33,
+      "points": 40,
+      "fga": 20,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022400083",
+      "date": "Oct 25, 2024",
+      "season": "2024-25",
+      "matchup": "MIL vs. CHI",
+      "minutes": 35,
+      "points": 38,
+      "fga": 23,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022500092",
+      "date": "Oct 24, 2025",
+      "season": "2025-26",
+      "matchup": "MIL @ TOR",
+      "minutes": 38,
+      "points": 31,
+      "fga": 14,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400066",
+      "date": "Oct 23, 2024",
+      "season": "2024-25",
+      "matchup": "MIL @ PHI",
+      "minutes": 31,
+      "points": 25,
+      "fga": 11,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022500086",
+      "date": "Oct 22, 2025",
+      "season": "2025-26",
+      "matchup": "MIL vs. WAS",
+      "minutes": 27,
+      "points": 37,
+      "fga": 26,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400302",
+      "date": "Nov 30, 2024",
+      "season": "2024-25",
+      "matchup": "MIL vs. WAS",
+      "minutes": 38,
+      "points": 42,
+      "fga": 24,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022500297",
+      "date": "Nov 29, 2025",
+      "season": "2025-26",
+      "matchup": "MIL vs. BKN",
+      "minutes": 19,
+      "points": 29,
+      "fga": 15,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022500074",
+      "date": "Nov 28, 2025",
+      "season": "2025-26",
+      "matchup": "MIL @ NYK",
+      "minutes": 28,
+      "points": 30,
+      "fga": 14,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400268",
+      "date": "Nov 23, 2024",
+      "season": "2024-25",
+      "matchup": "MIL vs. CHA",
+      "minutes": 31,
+      "points": 32,
+      "fga": 23,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400029",
+      "date": "Nov 22, 2024",
+      "season": "2024-25",
+      "matchup": "MIL vs. IND",
+      "minutes": 35,
+      "points": 37,
+      "fga": 21,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400253",
+      "date": "Nov 20, 2024",
+      "season": "2024-25",
+      "matchup": "MIL vs. CHI",
+      "minutes": 35,
+      "points": 41,
+      "fga": 24,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022400248",
+      "date": "Nov 18, 2024",
+      "season": "2024-25",
+      "matchup": "MIL vs. HOU",
+      "minutes": 36,
+      "points": 20,
+      "fga": 17,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022500241",
+      "date": "Nov 17, 2025",
+      "season": "2025-26",
+      "matchup": "MIL @ CLE",
+      "minutes": 13,
+      "points": 14,
+      "fga": 10,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400229",
+      "date": "Nov 16, 2024",
+      "season": "2024-25",
+      "matchup": "MIL @ CHA",
+      "minutes": 33,
+      "points": 22,
+      "fga": 22,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022500231",
+      "date": "Nov 15, 2025",
+      "season": "2025-26",
+      "matchup": "MIL vs. LAL",
+      "minutes": 32,
+      "points": 32,
+      "fga": 15,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022500043",
+      "date": "Nov 14, 2025",
+      "season": "2025-26",
+      "matchup": "MIL vs. CHA",
+      "minutes": 40,
+      "points": 25,
+      "fga": 18,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022400223",
+      "date": "Nov 13, 2024",
+      "season": "2024-25",
+      "matchup": "MIL vs. DET",
+      "minutes": 44,
+      "points": 59,
+      "fga": 34,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400005",
+      "date": "Nov 12, 2024",
+      "season": "2024-25",
+      "matchup": "MIL vs. TOR",
+      "minutes": 33,
+      "points": 23,
+      "fga": 12,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022500203",
+      "date": "Nov 10, 2025",
+      "season": "2025-26",
+      "matchup": "MIL @ DAL",
+      "minutes": 37,
+      "points": 30,
+      "fga": 18,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400202",
+      "date": "Nov 10, 2024",
+      "season": "2024-25",
+      "matchup": "MIL vs. BOS",
+      "minutes": 39,
+      "points": 43,
+      "fga": 29,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022500191",
+      "date": "Nov 09, 2025",
+      "season": "2025-26",
+      "matchup": "MIL vs. HOU",
+      "minutes": 36,
+      "points": 37,
+      "fga": 25,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022400189",
+      "date": "Nov 08, 2024",
+      "season": "2024-25",
+      "matchup": "MIL @ NYK",
+      "minutes": 32,
+      "points": 24,
+      "fga": 21,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022500035",
+      "date": "Nov 07, 2025",
+      "season": "2025-26",
+      "matchup": "MIL vs. CHI",
+      "minutes": 37,
+      "points": 41,
+      "fga": 32,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400182",
+      "date": "Nov 07, 2024",
+      "season": "2024-25",
+      "matchup": "MIL vs. UTA",
+      "minutes": 30,
+      "points": 31,
+      "fga": 21,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022500165",
+      "date": "Nov 04, 2025",
+      "season": "2025-26",
+      "matchup": "MIL @ TOR",
+      "minutes": 24,
+      "points": 22,
+      "fga": 14,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022500157",
+      "date": "Nov 03, 2025",
+      "season": "2025-26",
+      "matchup": "MIL @ IND",
+      "minutes": 32,
+      "points": 33,
+      "fga": 21,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400145",
+      "date": "Nov 02, 2024",
+      "season": "2024-25",
+      "matchup": "MIL vs. CLE",
+      "minutes": 39,
+      "points": 34,
+      "fga": 27,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022500142",
+      "date": "Nov 01, 2025",
+      "season": "2025-26",
+      "matchup": "MIL vs. SAC",
+      "minutes": 32,
+      "points": 26,
+      "fga": 13,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022401083",
+      "date": "Mar 30, 2025",
+      "season": "2024-25",
+      "matchup": "MIL vs. ATL",
+      "minutes": 30,
+      "points": 31,
+      "fga": 18,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022401070",
+      "date": "Mar 28, 2025",
+      "season": "2024-25",
+      "matchup": "MIL vs. NYK",
+      "minutes": 35,
+      "points": 30,
+      "fga": 17,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022401043",
+      "date": "Mar 24, 2025",
+      "season": "2024-25",
+      "matchup": "MIL @ PHX",
+      "minutes": 37,
+      "points": 31,
+      "fga": 19,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022401027",
+      "date": "Mar 22, 2025",
+      "season": "2024-25",
+      "matchup": "MIL @ SAC",
+      "minutes": 35,
+      "points": 32,
+      "fga": 20,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400996",
+      "date": "Mar 20, 2025",
+      "season": "2024-25",
+      "matchup": "MIL @ LAL",
+      "minutes": 29,
+      "points": 28,
+      "fga": 15,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022401012",
+      "date": "Mar 18, 2025",
+      "season": "2024-25",
+      "matchup": "MIL @ GSW",
+      "minutes": 39,
+      "points": 20,
+      "fga": 16,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022400982",
+      "date": "Mar 16, 2025",
+      "season": "2024-25",
+      "matchup": "MIL vs. OKC",
+      "minutes": 36,
+      "points": 21,
+      "fga": 15,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400972",
+      "date": "Mar 15, 2025",
+      "season": "2024-25",
+      "matchup": "MIL vs. IND",
+      "minutes": 35,
+      "points": 34,
+      "fga": 19,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400955",
+      "date": "Mar 13, 2025",
+      "season": "2024-25",
+      "matchup": "MIL vs. LAL",
+      "minutes": 30,
+      "points": 24,
+      "fga": 17,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022400942",
+      "date": "Mar 11, 2025",
+      "season": "2024-25",
+      "matchup": "MIL @ IND",
+      "minutes": 34,
+      "points": 19,
+      "fga": 14,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022400922",
+      "date": "Mar 09, 2025",
+      "season": "2024-25",
+      "matchup": "MIL vs. CLE",
+      "minutes": 34,
+      "points": 30,
+      "fga": 24,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400917",
+      "date": "Mar 08, 2025",
+      "season": "2024-25",
+      "matchup": "MIL vs. ORL",
+      "minutes": 35,
+      "points": 37,
+      "fga": 23,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400897",
+      "date": "Mar 05, 2025",
+      "season": "2024-25",
+      "matchup": "MIL vs. DAL",
+      "minutes": 25,
+      "points": 32,
+      "fga": 20,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400884",
+      "date": "Mar 04, 2025",
+      "season": "2024-25",
+      "matchup": "MIL @ ATL",
+      "minutes": 34,
+      "points": 26,
+      "fga": 18,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400865",
+      "date": "Mar 01, 2025",
+      "season": "2024-25",
+      "matchup": "MIL @ DAL",
+      "minutes": 32,
+      "points": 29,
+      "fga": 14,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022400684",
+      "date": "Jan 31, 2025",
+      "season": "2024-25",
+      "matchup": "MIL @ SAS",
+      "minutes": 34,
+      "points": 35,
+      "fga": 23,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022400662",
+      "date": "Jan 28, 2025",
+      "season": "2024-25",
+      "matchup": "MIL @ POR",
+      "minutes": 36,
+      "points": 39,
+      "fga": 24,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400658",
+      "date": "Jan 27, 2025",
+      "season": "2024-25",
+      "matchup": "MIL @ UTA",
+      "minutes": 37,
+      "points": 35,
+      "fga": 23,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022400646",
+      "date": "Jan 25, 2025",
+      "season": "2024-25",
+      "matchup": "MIL @ LAC",
+      "minutes": 35,
+      "points": 36,
+      "fga": 22,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022400624",
+      "date": "Jan 23, 2025",
+      "season": "2024-25",
+      "matchup": "MIL vs. MIA",
+      "minutes": 32,
+      "points": 25,
+      "fga": 18,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400594",
+      "date": "Jan 19, 2025",
+      "season": "2024-25",
+      "matchup": "MIL vs. PHI",
+      "minutes": 36,
+      "points": 34,
+      "fga": 17,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400580",
+      "date": "Jan 17, 2025",
+      "season": "2024-25",
+      "matchup": "MIL vs. TOR",
+      "minutes": 35,
+      "points": 35,
+      "fga": 20,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022400564",
+      "date": "Jan 15, 2025",
+      "season": "2024-25",
+      "matchup": "MIL vs. ORL",
+      "minutes": 30,
+      "points": 26,
+      "fga": 15,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400558",
+      "date": "Jan 14, 2025",
+      "season": "2024-25",
+      "matchup": "MIL vs. SAC",
+      "minutes": 37,
+      "points": 33,
+      "fga": 23,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400539",
+      "date": "Jan 12, 2025",
+      "season": "2024-25",
+      "matchup": "MIL @ NYK",
+      "minutes": 31,
+      "points": 24,
+      "fga": 21,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022400526",
+      "date": "Jan 10, 2025",
+      "season": "2024-25",
+      "matchup": "MIL @ ORL",
+      "minutes": 37,
+      "points": 41,
+      "fga": 29,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022400516",
+      "date": "Jan 08, 2025",
+      "season": "2024-25",
+      "matchup": "MIL vs. SAS",
+      "minutes": 36,
+      "points": 25,
+      "fga": 21,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022400497",
+      "date": "Jan 06, 2025",
+      "season": "2024-25",
+      "matchup": "MIL @ TOR",
+      "minutes": 29,
+      "points": 11,
+      "fga": 8,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022500500",
+      "date": "Jan 04, 2026",
+      "season": "2025-26",
+      "matchup": "MIL @ SAC",
+      "minutes": 32,
+      "points": 37,
+      "fga": 17,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400483",
+      "date": "Jan 04, 2025",
+      "season": "2024-25",
+      "matchup": "MIL vs. POR",
+      "minutes": 38,
+      "points": 31,
+      "fga": 27,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022500481",
+      "date": "Jan 02, 2026",
+      "season": "2025-26",
+      "matchup": "MIL vs. CHA",
+      "minutes": 30,
+      "points": 30,
+      "fga": 18,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400465",
+      "date": "Jan 02, 2025",
+      "season": "2024-25",
+      "matchup": "MIL vs. BKN",
+      "minutes": 37,
+      "points": 27,
+      "fga": 24,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400846",
+      "date": "Feb 27, 2025",
+      "season": "2024-25",
+      "matchup": "MIL vs. DEN",
+      "minutes": 33,
+      "points": 28,
+      "fga": 23,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400831",
+      "date": "Feb 25, 2025",
+      "season": "2024-25",
+      "matchup": "MIL @ HOU",
+      "minutes": 32,
+      "points": 27,
+      "fga": 17,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022400817",
+      "date": "Feb 23, 2025",
+      "season": "2024-25",
+      "matchup": "MIL vs. MIA",
+      "minutes": 32,
+      "points": 23,
+      "fga": 18,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400799",
+      "date": "Feb 21, 2025",
+      "season": "2024-25",
+      "matchup": "MIL @ WAS",
+      "minutes": 19,
+      "points": 18,
+      "fga": 9,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400793",
+      "date": "Feb 20, 2025",
+      "season": "2024-25",
+      "matchup": "MIL vs. LAC",
+      "minutes": 24,
+      "points": 23,
+      "fga": 14,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400699",
+      "date": "Feb 02, 2025",
+      "season": "2024-25",
+      "matchup": "MIL vs. MEM",
+      "minutes": 37,
+      "points": 30,
+      "fga": 21,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022500469",
+      "date": "Dec 31, 2025",
+      "season": "2025-26",
+      "matchup": "MIL vs. WAS",
+      "minutes": 28,
+      "points": 33,
+      "fga": 21,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022400450",
+      "date": "Dec 31, 2024",
+      "season": "2024-25",
+      "matchup": "MIL @ IND",
+      "minutes": 35,
+      "points": 30,
+      "fga": 20,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022500447",
+      "date": "Dec 29, 2025",
+      "season": "2025-26",
+      "matchup": "MIL @ CHA",
+      "minutes": 25,
+      "points": 24,
+      "fga": 16,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022500437",
+      "date": "Dec 27, 2025",
+      "season": "2025-26",
+      "matchup": "MIL @ CHI",
+      "minutes": 25,
+      "points": 29,
+      "fga": 15,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400374",
+      "date": "Dec 20, 2024",
+      "season": "2024-25",
+      "matchup": "MIL @ CLE",
+      "minutes": 30,
+      "points": 33,
+      "fga": 22,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022401229",
+      "date": "Dec 14, 2024",
+      "season": "2024-25",
+      "matchup": "MIL vs. ATL",
+      "minutes": 38,
+      "points": 32,
+      "fga": 15,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022401201",
+      "date": "Dec 10, 2024",
+      "season": "2024-25",
+      "matchup": "MIL vs. ORL",
+      "minutes": 36,
+      "points": 37,
+      "fga": 24,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400348",
+      "date": "Dec 08, 2024",
+      "season": "2024-25",
+      "matchup": "MIL @ BKN",
+      "minutes": 38,
+      "points": 34,
+      "fga": 22,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400335",
+      "date": "Dec 06, 2024",
+      "season": "2024-25",
+      "matchup": "MIL @ BOS",
+      "minutes": 36,
+      "points": 30,
+      "fga": 25,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022400323",
+      "date": "Dec 04, 2024",
+      "season": "2024-25",
+      "matchup": "MIL vs. ATL",
+      "minutes": 36,
+      "points": 31,
+      "fga": 14,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022500331",
+      "date": "Dec 03, 2025",
+      "season": "2025-26",
+      "matchup": "MIL vs. DET",
+      "minutes": 3,
+      "points": 2,
+      "fga": 0,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400052",
+      "date": "Dec 03, 2024",
+      "season": "2024-25",
+      "matchup": "MIL @ DET",
+      "minutes": 28,
+      "points": 28,
+      "fga": 11,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022500311",
+      "date": "Dec 01, 2025",
+      "season": "2025-26",
+      "matchup": "MIL @ WAS",
+      "minutes": 32,
+      "points": 26,
+      "fga": 17,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022401171",
+      "date": "Apr 11, 2025",
+      "season": "2024-25",
+      "matchup": "MIL @ DET",
+      "minutes": 38,
+      "points": 32,
+      "fga": 22,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022401161",
+      "date": "Apr 10, 2025",
+      "season": "2024-25",
+      "matchup": "MIL vs. NOP",
+      "minutes": 26,
+      "points": 28,
+      "fga": 17,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022401152",
+      "date": "Apr 08, 2025",
+      "season": "2024-25",
+      "matchup": "MIL vs. MIN",
+      "minutes": 38,
+      "points": 23,
+      "fga": 15,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022401131",
+      "date": "Apr 05, 2025",
+      "season": "2024-25",
+      "matchup": "MIL @ MIA",
+      "minutes": 43,
+      "points": 36,
+      "fga": 21,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022401115",
+      "date": "Apr 03, 2025",
+      "season": "2024-25",
+      "matchup": "MIL @ PHI",
+      "minutes": 39,
+      "points": 35,
+      "fga": 19,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022401101",
+      "date": "Apr 01, 2025",
+      "season": "2024-25",
+      "matchup": "MIL vs. PHX",
+      "minutes": 36,
+      "points": 37,
+      "fga": 18,
+      "fg3a": 4
+    }
+  ]
+}

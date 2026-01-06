@@ -1,45 +1,68 @@
 import json
-from app.services.nba_client import get_player_game_log
+from app.services.nba_client import get_player_game_log, get_player_name
 
-PLAYER_ID = 203999 # Nicola Jokic
-SEASON = "2023-24"
 
-data = get_player_game_log(PLAYER_ID, season=SEASON)
+def fetch_player(player_id: int):
+    SEASONS = ["2024-25", "2025-26"]
+    all_games = []
+    player_name = get_player_name(player_id)
 
-result = data["resultSets"][0]
-headers = result["headers"]
-rows = result["rowSet"]
+    for season in SEASONS:
+        print(f"Fetching season {season}...")
+        data = get_player_game_log(player_id, season=season)
 
-def idx(field_name):
-    if field_name not in headers:
-        raise ValueError(f"Campo '{field_name}' não encontrado nos headers: {headers}")
-    return headers.index(field_name)
+        result = data["resultSets"][0]
+        headers = result["headers"]
+        rows = result["rowSet"]
 
-IDX_GAME_ID = headers.index("Game_ID")
-IDX_GAME_DATE = headers.index("GAME_DATE")
-IDX_MATCHUP = headers.index("MATCHUP")
-IDX_MIN = headers.index("MIN")
-IDX_PTS = headers.index("FGM")
-IDX_FGA = headers.index("FGA")
-IDX_FG3A = headers.index("FG3A")
+        def idx(field_name):
+            if field_name not in headers:
+                raise ValueError(
+                    f"Campo '{field_name}' não encontrado nos headers: {headers}"
+                )
+            return headers.index(field_name)
 
-clean_games = []
+        IDX_GAME_ID = idx("Game_ID")
+        IDX_GAME_DATE = idx("GAME_DATE")
+        IDX_MATCHUP = idx("MATCHUP")
+        IDX_MIN = idx("MIN")
+        IDX_PTS = idx("PTS")
+        IDX_FGA = idx("FGA")
+        IDX_FG3A = idx("FG3A")
 
-for row in rows:
-    game = {
-        "game_id": row[IDX_GAME_ID],
-        "date": row[IDX_GAME_DATE],
-        "matchup": row[IDX_MATCHUP],
-        "minutes": int(row[IDX_MIN]),
-        "points": int(row[IDX_PTS]),
-        "fga": int(row[IDX_FGA]),
-        "fg3a": int(row[IDX_FG3A]),
-    }
-    clean_games.append(game)
+        for row in rows:
+            game = {
+                "game_id": row[IDX_GAME_ID],
+                "date": row[IDX_GAME_DATE],
+                "season": season,
+                "matchup": row[IDX_MATCHUP],
+                "minutes": int(row[IDX_MIN]),
+                "points": int(row[IDX_PTS]),
+                "fga": int(row[IDX_FGA]),
+                "fg3a": int(row[IDX_FG3A]),
+            }
+            all_games.append(game)
+
+    # ordenar por data (mais recente primeiro)
+    all_games = sorted(
+        all_games,
+        key=lambda g: g["date"],
+        reverse=True,
+    )
+
+    output_path = f"data/processed/player_stats_{player_id}.json"
     
-output_path = f"data/processed/players_stats_{PLAYER_ID}.json"
+    output = {
+        "player_id": player_id,
+        "player_name": player_name,
+        "games": all_games,
+    }
 
-with open(output_path, "w", encoding="utf-8") as f:
-    json.dump(clean_games, f, indent=2)
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(output, f, indent=2)        
 
-print(f"{len(clean_games)} games saved to {output_path}")
+    print(f"{len(all_games)} games saved to {output_path}")
+
+if __name__ == "__main__":
+    # jogador padrão para teste manual
+    fetch_player(203999)

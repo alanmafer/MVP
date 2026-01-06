@@ -1,0 +1,1086 @@
+{
+  "player_id": 1626164,
+  "player_name": "Devin Booker",
+  "games": [
+    {
+      "game_id": "0022500025",
+      "date": "Oct 31, 2025",
+      "season": "2025-26",
+      "matchup": "PHX vs. UTA",
+      "minutes": 39,
+      "points": 36,
+      "fga": 23,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400131",
+      "date": "Oct 31, 2024",
+      "season": "2024-25",
+      "matchup": "PHX @ LAC",
+      "minutes": 38,
+      "points": 40,
+      "fga": 18,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022500137",
+      "date": "Oct 29, 2025",
+      "season": "2025-26",
+      "matchup": "PHX vs. MEM",
+      "minutes": 36,
+      "points": 32,
+      "fga": 26,
+      "fg3a": 11
+    },
+    {
+      "game_id": "0022400111",
+      "date": "Oct 28, 2024",
+      "season": "2024-25",
+      "matchup": "PHX vs. LAL",
+      "minutes": 39,
+      "points": 33,
+      "fga": 23,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022500120",
+      "date": "Oct 27, 2025",
+      "season": "2025-26",
+      "matchup": "PHX @ UTA",
+      "minutes": 44,
+      "points": 34,
+      "fga": 26,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022400095",
+      "date": "Oct 26, 2024",
+      "season": "2024-25",
+      "matchup": "PHX vs. DAL",
+      "minutes": 37,
+      "points": 21,
+      "fga": 12,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022500104",
+      "date": "Oct 25, 2025",
+      "season": "2025-26",
+      "matchup": "PHX @ DEN",
+      "minutes": 37,
+      "points": 31,
+      "fga": 16,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022400085",
+      "date": "Oct 25, 2024",
+      "season": "2024-25",
+      "matchup": "PHX @ LAL",
+      "minutes": 35,
+      "points": 23,
+      "fga": 21,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022500099",
+      "date": "Oct 24, 2025",
+      "season": "2025-26",
+      "matchup": "PHX @ LAC",
+      "minutes": 28,
+      "points": 18,
+      "fga": 10,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400071",
+      "date": "Oct 23, 2024",
+      "season": "2024-25",
+      "matchup": "PHX @ LAC",
+      "minutes": 32,
+      "points": 15,
+      "fga": 9,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022500088",
+      "date": "Oct 22, 2025",
+      "season": "2025-26",
+      "matchup": "PHX vs. SAC",
+      "minutes": 36,
+      "points": 31,
+      "fga": 19,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400303",
+      "date": "Nov 30, 2024",
+      "season": "2024-25",
+      "matchup": "PHX vs. GSW",
+      "minutes": 38,
+      "points": 27,
+      "fga": 20,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022500299",
+      "date": "Nov 29, 2025",
+      "season": "2025-26",
+      "matchup": "PHX vs. DEN",
+      "minutes": 35,
+      "points": 24,
+      "fga": 11,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022500075",
+      "date": "Nov 28, 2025",
+      "season": "2025-26",
+      "matchup": "PHX @ OKC",
+      "minutes": 39,
+      "points": 21,
+      "fga": 13,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400297",
+      "date": "Nov 27, 2024",
+      "season": "2024-25",
+      "matchup": "PHX vs. BKN",
+      "minutes": 39,
+      "points": 31,
+      "fga": 18,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022500068",
+      "date": "Nov 26, 2025",
+      "season": "2025-26",
+      "matchup": "PHX @ SAC",
+      "minutes": 39,
+      "points": 19,
+      "fga": 22,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400039",
+      "date": "Nov 26, 2024",
+      "season": "2024-25",
+      "matchup": "PHX vs. LAL",
+      "minutes": 34,
+      "points": 26,
+      "fga": 17,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022500290",
+      "date": "Nov 24, 2025",
+      "season": "2025-26",
+      "matchup": "PHX vs. HOU",
+      "minutes": 38,
+      "points": 18,
+      "fga": 13,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022500281",
+      "date": "Nov 23, 2025",
+      "season": "2025-26",
+      "matchup": "PHX vs. SAS",
+      "minutes": 38,
+      "points": 24,
+      "fga": 18,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022500053",
+      "date": "Nov 21, 2025",
+      "season": "2025-26",
+      "matchup": "PHX vs. MIN",
+      "minutes": 35,
+      "points": 16,
+      "fga": 18,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400257",
+      "date": "Nov 20, 2024",
+      "season": "2024-25",
+      "matchup": "PHX vs. NYK",
+      "minutes": 38,
+      "points": 33,
+      "fga": 23,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022500254",
+      "date": "Nov 18, 2025",
+      "season": "2025-26",
+      "matchup": "PHX @ POR",
+      "minutes": 29,
+      "points": 19,
+      "fga": 13,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400249",
+      "date": "Nov 18, 2024",
+      "season": "2024-25",
+      "matchup": "PHX vs. ORL",
+      "minutes": 38,
+      "points": 17,
+      "fga": 14,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400234",
+      "date": "Nov 17, 2024",
+      "season": "2024-25",
+      "matchup": "PHX @ MIN",
+      "minutes": 40,
+      "points": 44,
+      "fga": 29,
+      "fg3a": 13
+    },
+    {
+      "game_id": "0022500239",
+      "date": "Nov 16, 2025",
+      "season": "2025-26",
+      "matchup": "PHX vs. ATL",
+      "minutes": 38,
+      "points": 27,
+      "fga": 23,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400018",
+      "date": "Nov 15, 2024",
+      "season": "2024-25",
+      "matchup": "PHX @ OKC",
+      "minutes": 34,
+      "points": 12,
+      "fga": 10,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022500226",
+      "date": "Nov 13, 2025",
+      "season": "2025-26",
+      "matchup": "PHX vs. IND",
+      "minutes": 29,
+      "points": 33,
+      "fga": 22,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400227",
+      "date": "Nov 13, 2024",
+      "season": "2024-25",
+      "matchup": "PHX @ SAC",
+      "minutes": 31,
+      "points": 18,
+      "fga": 16,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022500221",
+      "date": "Nov 12, 2025",
+      "season": "2025-26",
+      "matchup": "PHX @ DAL",
+      "minutes": 38,
+      "points": 26,
+      "fga": 19,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400006",
+      "date": "Nov 12, 2024",
+      "season": "2024-25",
+      "matchup": "PHX @ UTA",
+      "minutes": 34,
+      "points": 31,
+      "fga": 20,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022500204",
+      "date": "Nov 10, 2025",
+      "season": "2025-26",
+      "matchup": "PHX vs. NOP",
+      "minutes": 27,
+      "points": 19,
+      "fga": 13,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400209",
+      "date": "Nov 10, 2024",
+      "season": "2024-25",
+      "matchup": "PHX vs. SAC",
+      "minutes": 43,
+      "points": 23,
+      "fga": 22,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022500190",
+      "date": "Nov 08, 2025",
+      "season": "2025-26",
+      "matchup": "PHX @ LAC",
+      "minutes": 38,
+      "points": 21,
+      "fga": 19,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400190",
+      "date": "Nov 08, 2024",
+      "season": "2024-25",
+      "matchup": "PHX @ DAL",
+      "minutes": 35,
+      "points": 13,
+      "fga": 13,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022500182",
+      "date": "Nov 06, 2025",
+      "season": "2025-26",
+      "matchup": "PHX vs. LAC",
+      "minutes": 37,
+      "points": 24,
+      "fga": 22,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400178",
+      "date": "Nov 06, 2024",
+      "season": "2024-25",
+      "matchup": "PHX vs. MIA",
+      "minutes": 39,
+      "points": 22,
+      "fga": 17,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022500169",
+      "date": "Nov 04, 2025",
+      "season": "2025-26",
+      "matchup": "PHX @ GSW",
+      "minutes": 39,
+      "points": 38,
+      "fga": 24,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022400167",
+      "date": "Nov 04, 2024",
+      "season": "2024-25",
+      "matchup": "PHX vs. PHI",
+      "minutes": 38,
+      "points": 13,
+      "fga": 18,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022500154",
+      "date": "Nov 02, 2025",
+      "season": "2025-26",
+      "matchup": "PHX vs. SAS",
+      "minutes": 35,
+      "points": 28,
+      "fga": 15,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400149",
+      "date": "Nov 02, 2024",
+      "season": "2024-25",
+      "matchup": "PHX vs. POR",
+      "minutes": 36,
+      "points": 28,
+      "fga": 23,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022401088",
+      "date": "Mar 30, 2025",
+      "season": "2024-25",
+      "matchup": "PHX vs. HOU",
+      "minutes": 31,
+      "points": 28,
+      "fga": 17,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022401071",
+      "date": "Mar 28, 2025",
+      "season": "2024-25",
+      "matchup": "PHX @ MIN",
+      "minutes": 39,
+      "points": 10,
+      "fga": 14,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022401058",
+      "date": "Mar 26, 2025",
+      "season": "2024-25",
+      "matchup": "PHX vs. BOS",
+      "minutes": 34,
+      "points": 14,
+      "fga": 13,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022401043",
+      "date": "Mar 24, 2025",
+      "season": "2024-25",
+      "matchup": "PHX vs. MIL",
+      "minutes": 40,
+      "points": 19,
+      "fga": 18,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022401021",
+      "date": "Mar 21, 2025",
+      "season": "2024-25",
+      "matchup": "PHX vs. CLE",
+      "minutes": 39,
+      "points": 17,
+      "fga": 17,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022401007",
+      "date": "Mar 19, 2025",
+      "season": "2024-25",
+      "matchup": "PHX vs. CHI",
+      "minutes": 36,
+      "points": 41,
+      "fga": 26,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022400991",
+      "date": "Mar 17, 2025",
+      "season": "2024-25",
+      "matchup": "PHX vs. TOR",
+      "minutes": 32,
+      "points": 27,
+      "fga": 15,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400977",
+      "date": "Mar 16, 2025",
+      "season": "2024-25",
+      "matchup": "PHX @ LAL",
+      "minutes": 40,
+      "points": 19,
+      "fga": 17,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400967",
+      "date": "Mar 14, 2025",
+      "season": "2024-25",
+      "matchup": "PHX vs. SAC",
+      "minutes": 37,
+      "points": 22,
+      "fga": 17,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400949",
+      "date": "Mar 12, 2025",
+      "season": "2024-25",
+      "matchup": "PHX @ HOU",
+      "minutes": 37,
+      "points": 19,
+      "fga": 15,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022400935",
+      "date": "Mar 10, 2025",
+      "season": "2024-25",
+      "matchup": "PHX @ MEM",
+      "minutes": 40,
+      "points": 26,
+      "fga": 21,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400921",
+      "date": "Mar 09, 2025",
+      "season": "2024-25",
+      "matchup": "PHX @ DAL",
+      "minutes": 38,
+      "points": 24,
+      "fga": 21,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400909",
+      "date": "Mar 07, 2025",
+      "season": "2024-25",
+      "matchup": "PHX @ DEN",
+      "minutes": 44,
+      "points": 34,
+      "fga": 19,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400889",
+      "date": "Mar 04, 2025",
+      "season": "2024-25",
+      "matchup": "PHX vs. LAC",
+      "minutes": 41,
+      "points": 17,
+      "fga": 11,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400873",
+      "date": "Mar 02, 2025",
+      "season": "2024-25",
+      "matchup": "PHX vs. MIN",
+      "minutes": 35,
+      "points": 17,
+      "fga": 12,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400685",
+      "date": "Jan 31, 2025",
+      "season": "2024-25",
+      "matchup": "PHX @ GSW",
+      "minutes": 34,
+      "points": 31,
+      "fga": 23,
+      "fg3a": 11
+    },
+    {
+      "game_id": "0022400672",
+      "date": "Jan 29, 2025",
+      "season": "2024-25",
+      "matchup": "PHX vs. MIN",
+      "minutes": 41,
+      "points": 28,
+      "fga": 19,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400659",
+      "date": "Jan 27, 2025",
+      "season": "2024-25",
+      "matchup": "PHX vs. LAC",
+      "minutes": 39,
+      "points": 26,
+      "fga": 21,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400645",
+      "date": "Jan 25, 2025",
+      "season": "2024-25",
+      "matchup": "PHX vs. WAS",
+      "minutes": 39,
+      "points": 18,
+      "fga": 18,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400613",
+      "date": "Jan 22, 2025",
+      "season": "2024-25",
+      "matchup": "PHX @ BKN",
+      "minutes": 36,
+      "points": 32,
+      "fga": 24,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400603",
+      "date": "Jan 20, 2025",
+      "season": "2024-25",
+      "matchup": "PHX @ CLE",
+      "minutes": 32,
+      "points": 15,
+      "fga": 14,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400586",
+      "date": "Jan 18, 2025",
+      "season": "2024-25",
+      "matchup": "PHX @ DET",
+      "minutes": 42,
+      "points": 35,
+      "fga": 22,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022400573",
+      "date": "Jan 16, 2025",
+      "season": "2024-25",
+      "matchup": "PHX @ WAS",
+      "minutes": 39,
+      "points": 37,
+      "fga": 24,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400556",
+      "date": "Jan 14, 2025",
+      "season": "2024-25",
+      "matchup": "PHX @ ATL",
+      "minutes": 38,
+      "points": 35,
+      "fga": 23,
+      "fg3a": 14
+    },
+    {
+      "game_id": "0022400547",
+      "date": "Jan 12, 2025",
+      "season": "2024-25",
+      "matchup": "PHX vs. CHA",
+      "minutes": 39,
+      "points": 30,
+      "fga": 20,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400533",
+      "date": "Jan 11, 2025",
+      "season": "2024-25",
+      "matchup": "PHX vs. UTA",
+      "minutes": 36,
+      "points": 34,
+      "fga": 20,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022400522",
+      "date": "Jan 09, 2025",
+      "season": "2024-25",
+      "matchup": "PHX vs. ATL",
+      "minutes": 40,
+      "points": 20,
+      "fga": 21,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400502",
+      "date": "Jan 07, 2025",
+      "season": "2024-25",
+      "matchup": "PHX @ CHA",
+      "minutes": 39,
+      "points": 39,
+      "fga": 25,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400494",
+      "date": "Jan 06, 2025",
+      "season": "2024-25",
+      "matchup": "PHX @ PHI",
+      "minutes": 38,
+      "points": 10,
+      "fga": 16,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022500505",
+      "date": "Jan 05, 2026",
+      "season": "2025-26",
+      "matchup": "PHX @ HOU",
+      "minutes": 33,
+      "points": 27,
+      "fga": 20,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022500499",
+      "date": "Jan 04, 2026",
+      "season": "2025-26",
+      "matchup": "PHX vs. OKC",
+      "minutes": 38,
+      "points": 24,
+      "fga": 11,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400480",
+      "date": "Jan 04, 2025",
+      "season": "2024-25",
+      "matchup": "PHX @ IND",
+      "minutes": 36,
+      "points": 20,
+      "fga": 15,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022500483",
+      "date": "Jan 02, 2026",
+      "season": "2025-26",
+      "matchup": "PHX vs. SAC",
+      "minutes": 28,
+      "points": 33,
+      "fga": 21,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400857",
+      "date": "Feb 28, 2025",
+      "season": "2024-25",
+      "matchup": "PHX vs. NOP",
+      "minutes": 37,
+      "points": 17,
+      "fga": 13,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400848",
+      "date": "Feb 27, 2025",
+      "season": "2024-25",
+      "matchup": "PHX vs. NOP",
+      "minutes": 42,
+      "points": 36,
+      "fga": 29,
+      "fg3a": 16
+    },
+    {
+      "game_id": "0022400832",
+      "date": "Feb 25, 2025",
+      "season": "2024-25",
+      "matchup": "PHX @ MEM",
+      "minutes": 35,
+      "points": 28,
+      "fga": 20,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400816",
+      "date": "Feb 23, 2025",
+      "season": "2024-25",
+      "matchup": "PHX @ TOR",
+      "minutes": 37,
+      "points": 31,
+      "fga": 25,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400806",
+      "date": "Feb 22, 2025",
+      "season": "2024-25",
+      "matchup": "PHX @ CHI",
+      "minutes": 38,
+      "points": 29,
+      "fga": 20,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400795",
+      "date": "Feb 20, 2025",
+      "season": "2024-25",
+      "matchup": "PHX @ SAS",
+      "minutes": 41,
+      "points": 17,
+      "fga": 14,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400767",
+      "date": "Feb 11, 2025",
+      "season": "2024-25",
+      "matchup": "PHX vs. MEM",
+      "minutes": 40,
+      "points": 17,
+      "fga": 13,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400749",
+      "date": "Feb 08, 2025",
+      "season": "2024-25",
+      "matchup": "PHX vs. DEN",
+      "minutes": 34,
+      "points": 24,
+      "fga": 19,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400740",
+      "date": "Feb 07, 2025",
+      "season": "2024-25",
+      "matchup": "PHX vs. UTA",
+      "minutes": 49,
+      "points": 47,
+      "fga": 33,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400724",
+      "date": "Feb 05, 2025",
+      "season": "2024-25",
+      "matchup": "PHX @ OKC",
+      "minutes": 31,
+      "points": 19,
+      "fga": 9,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400709",
+      "date": "Feb 03, 2025",
+      "season": "2024-25",
+      "matchup": "PHX @ POR",
+      "minutes": 47,
+      "points": 34,
+      "fga": 18,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400694",
+      "date": "Feb 01, 2025",
+      "season": "2024-25",
+      "matchup": "PHX @ POR",
+      "minutes": 35,
+      "points": 37,
+      "fga": 18,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022500465",
+      "date": "Dec 31, 2025",
+      "season": "2025-26",
+      "matchup": "PHX @ CLE",
+      "minutes": 33,
+      "points": 32,
+      "fga": 25,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400453",
+      "date": "Dec 31, 2024",
+      "season": "2024-25",
+      "matchup": "PHX vs. MEM",
+      "minutes": 30,
+      "points": 16,
+      "fga": 20,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022500448",
+      "date": "Dec 29, 2025",
+      "season": "2025-26",
+      "matchup": "PHX @ WAS",
+      "minutes": 35,
+      "points": 22,
+      "fga": 23,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022500434",
+      "date": "Dec 27, 2025",
+      "season": "2025-26",
+      "matchup": "PHX @ NOP",
+      "minutes": 34,
+      "points": 20,
+      "fga": 18,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022500429",
+      "date": "Dec 26, 2025",
+      "season": "2025-26",
+      "matchup": "PHX @ NOP",
+      "minutes": 36,
+      "points": 30,
+      "fga": 16,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022500418",
+      "date": "Dec 23, 2025",
+      "season": "2025-26",
+      "matchup": "PHX vs. LAL",
+      "minutes": 27,
+      "points": 21,
+      "fga": 14,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022500392",
+      "date": "Dec 20, 2025",
+      "season": "2025-26",
+      "matchup": "PHX @ GSW",
+      "minutes": 34,
+      "points": 38,
+      "fga": 27,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400369",
+      "date": "Dec 19, 2024",
+      "season": "2024-25",
+      "matchup": "PHX vs. IND",
+      "minutes": 25,
+      "points": 17,
+      "fga": 10,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022500378",
+      "date": "Dec 18, 2025",
+      "season": "2025-26",
+      "matchup": "PHX vs. GSW",
+      "minutes": 33,
+      "points": 25,
+      "fga": 19,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022401219",
+      "date": "Dec 15, 2024",
+      "season": "2024-25",
+      "matchup": "PHX vs. POR",
+      "minutes": 37,
+      "points": 28,
+      "fga": 14,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022501228",
+      "date": "Dec 14, 2025",
+      "season": "2025-26",
+      "matchup": "PHX vs. LAL",
+      "minutes": 31,
+      "points": 27,
+      "fga": 17,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022401214",
+      "date": "Dec 13, 2024",
+      "season": "2024-25",
+      "matchup": "PHX @ UTA",
+      "minutes": 38,
+      "points": 34,
+      "fga": 27,
+      "fg3a": 13
+    },
+    {
+      "game_id": "0022400352",
+      "date": "Dec 08, 2024",
+      "season": "2024-25",
+      "matchup": "PHX @ ORL",
+      "minutes": 38,
+      "points": 25,
+      "fga": 21,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022400346",
+      "date": "Dec 07, 2024",
+      "season": "2024-25",
+      "matchup": "PHX @ MIA",
+      "minutes": 37,
+      "points": 21,
+      "fga": 16,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400330",
+      "date": "Dec 05, 2024",
+      "season": "2024-25",
+      "matchup": "PHX @ NOP",
+      "minutes": 37,
+      "points": 28,
+      "fga": 20,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400057",
+      "date": "Dec 03, 2024",
+      "season": "2024-25",
+      "matchup": "PHX vs. SAS",
+      "minutes": 39,
+      "points": 29,
+      "fga": 21,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022500317",
+      "date": "Dec 01, 2025",
+      "season": "2025-26",
+      "matchup": "PHX @ LAL",
+      "minutes": 10,
+      "points": 11,
+      "fga": 7,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022401182",
+      "date": "Apr 11, 2025",
+      "season": "2024-25",
+      "matchup": "PHX vs. SAS",
+      "minutes": 28,
+      "points": 18,
+      "fga": 12,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022401164",
+      "date": "Apr 09, 2025",
+      "season": "2024-25",
+      "matchup": "PHX vs. OKC",
+      "minutes": 40,
+      "points": 20,
+      "fga": 20,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022401154",
+      "date": "Apr 08, 2025",
+      "season": "2024-25",
+      "matchup": "PHX vs. GSW",
+      "minutes": 30,
+      "points": 21,
+      "fga": 17,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022401140",
+      "date": "Apr 06, 2025",
+      "season": "2024-25",
+      "matchup": "PHX @ NYK",
+      "minutes": 40,
+      "points": 40,
+      "fga": 29,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022401120",
+      "date": "Apr 04, 2025",
+      "season": "2024-25",
+      "matchup": "PHX @ BOS",
+      "minutes": 38,
+      "points": 37,
+      "fga": 29,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022401101",
+      "date": "Apr 01, 2025",
+      "season": "2024-25",
+      "matchup": "PHX @ MIL",
+      "minutes": 43,
+      "points": 39,
+      "fga": 32,
+      "fg3a": 11
+    }
+  ]
+}

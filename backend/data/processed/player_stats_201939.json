@@ -1,0 +1,976 @@
+{
+  "player_id": 201939,
+  "player_name": "Stephen Curry",
+  "games": [
+    {
+      "game_id": "0022500139",
+      "date": "Oct 30, 2025",
+      "season": "2025-26",
+      "matchup": "GSW @ MIL",
+      "minutes": 35,
+      "points": 27,
+      "fga": 19,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022500127",
+      "date": "Oct 28, 2025",
+      "season": "2025-26",
+      "matchup": "GSW vs. LAC",
+      "minutes": 26,
+      "points": 19,
+      "fga": 15,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022500121",
+      "date": "Oct 27, 2025",
+      "season": "2025-26",
+      "matchup": "GSW vs. MEM",
+      "minutes": 30,
+      "points": 16,
+      "fga": 11,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400101",
+      "date": "Oct 27, 2024",
+      "season": "2024-25",
+      "matchup": "GSW vs. LAC",
+      "minutes": 27,
+      "points": 18,
+      "fga": 11,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400084",
+      "date": "Oct 25, 2024",
+      "season": "2024-25",
+      "matchup": "GSW @ UTA",
+      "minutes": 27,
+      "points": 20,
+      "fga": 20,
+      "fg3a": 13
+    },
+    {
+      "game_id": "0022500097",
+      "date": "Oct 24, 2025",
+      "season": "2025-26",
+      "matchup": "GSW @ POR",
+      "minutes": 27,
+      "points": 35,
+      "fga": 22,
+      "fg3a": 14
+    },
+    {
+      "game_id": "0022500006",
+      "date": "Oct 23, 2025",
+      "season": "2025-26",
+      "matchup": "GSW vs. DEN",
+      "minutes": 37,
+      "points": 42,
+      "fga": 25,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022400072",
+      "date": "Oct 23, 2024",
+      "season": "2024-25",
+      "matchup": "GSW @ POR",
+      "minutes": 25,
+      "points": 17,
+      "fga": 10,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022500002",
+      "date": "Oct 21, 2025",
+      "season": "2025-26",
+      "matchup": "GSW @ LAL",
+      "minutes": 32,
+      "points": 23,
+      "fga": 14,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400303",
+      "date": "Nov 30, 2024",
+      "season": "2024-25",
+      "matchup": "GSW @ PHX",
+      "minutes": 32,
+      "points": 23,
+      "fga": 21,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022500066",
+      "date": "Nov 26, 2025",
+      "season": "2025-26",
+      "matchup": "GSW vs. HOU",
+      "minutes": 33,
+      "points": 14,
+      "fga": 13,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400284",
+      "date": "Nov 25, 2024",
+      "season": "2024-25",
+      "matchup": "GSW vs. BKN",
+      "minutes": 29,
+      "points": 28,
+      "fga": 17,
+      "fg3a": 16
+    },
+    {
+      "game_id": "0022500291",
+      "date": "Nov 24, 2025",
+      "season": "2025-26",
+      "matchup": "GSW vs. UTA",
+      "minutes": 29,
+      "points": 31,
+      "fga": 24,
+      "fg3a": 17
+    },
+    {
+      "game_id": "0022400269",
+      "date": "Nov 23, 2024",
+      "season": "2024-25",
+      "matchup": "GSW @ SAS",
+      "minutes": 32,
+      "points": 14,
+      "fga": 16,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400032",
+      "date": "Nov 22, 2024",
+      "season": "2024-25",
+      "matchup": "GSW @ NOP",
+      "minutes": 33,
+      "points": 19,
+      "fga": 13,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022500056",
+      "date": "Nov 21, 2025",
+      "season": "2025-26",
+      "matchup": "GSW vs. POR",
+      "minutes": 34,
+      "points": 38,
+      "fga": 23,
+      "fg3a": 17
+    },
+    {
+      "game_id": "0022400258",
+      "date": "Nov 20, 2024",
+      "season": "2024-25",
+      "matchup": "GSW vs. ATL",
+      "minutes": 30,
+      "points": 23,
+      "fga": 10,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022500249",
+      "date": "Nov 18, 2025",
+      "season": "2025-26",
+      "matchup": "GSW @ ORL",
+      "minutes": 34,
+      "points": 34,
+      "fga": 23,
+      "fg3a": 15
+    },
+    {
+      "game_id": "0022400251",
+      "date": "Nov 18, 2024",
+      "season": "2024-25",
+      "matchup": "GSW @ LAC",
+      "minutes": 32,
+      "points": 26,
+      "fga": 21,
+      "fg3a": 15
+    },
+    {
+      "game_id": "0022500237",
+      "date": "Nov 16, 2025",
+      "season": "2025-26",
+      "matchup": "GSW @ NOP",
+      "minutes": 28,
+      "points": 9,
+      "fga": 11,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400019",
+      "date": "Nov 15, 2024",
+      "season": "2024-25",
+      "matchup": "GSW vs. MEM",
+      "minutes": 26,
+      "points": 13,
+      "fga": 9,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022500047",
+      "date": "Nov 14, 2025",
+      "season": "2025-26",
+      "matchup": "GSW @ SAS",
+      "minutes": 36,
+      "points": 49,
+      "fga": 26,
+      "fg3a": 17
+    },
+    {
+      "game_id": "0022500220",
+      "date": "Nov 12, 2025",
+      "season": "2025-26",
+      "matchup": "GSW @ SAS",
+      "minutes": 34,
+      "points": 46,
+      "fga": 25,
+      "fg3a": 16
+    },
+    {
+      "game_id": "0022400007",
+      "date": "Nov 12, 2024",
+      "season": "2024-25",
+      "matchup": "GSW vs. DAL",
+      "minutes": 35,
+      "points": 37,
+      "fga": 27,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022500210",
+      "date": "Nov 11, 2025",
+      "season": "2025-26",
+      "matchup": "GSW @ OKC",
+      "minutes": 20,
+      "points": 11,
+      "fga": 13,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022400207",
+      "date": "Nov 10, 2024",
+      "season": "2024-25",
+      "matchup": "GSW @ OKC",
+      "minutes": 37,
+      "points": 36,
+      "fga": 23,
+      "fg3a": 13
+    },
+    {
+      "game_id": "0022400188",
+      "date": "Nov 08, 2024",
+      "season": "2024-25",
+      "matchup": "GSW @ CLE",
+      "minutes": 24,
+      "points": 12,
+      "fga": 10,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400172",
+      "date": "Nov 06, 2024",
+      "season": "2024-25",
+      "matchup": "GSW @ BOS",
+      "minutes": 34,
+      "points": 27,
+      "fga": 17,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022500169",
+      "date": "Nov 04, 2025",
+      "season": "2025-26",
+      "matchup": "GSW vs. PHX",
+      "minutes": 34,
+      "points": 28,
+      "fga": 23,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022400155",
+      "date": "Nov 04, 2024",
+      "season": "2024-25",
+      "matchup": "GSW @ WAS",
+      "minutes": 24,
+      "points": 24,
+      "fga": 15,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022500144",
+      "date": "Nov 01, 2025",
+      "season": "2025-26",
+      "matchup": "GSW @ IND",
+      "minutes": 29,
+      "points": 24,
+      "fga": 23,
+      "fg3a": 16
+    },
+    {
+      "game_id": "0022401086",
+      "date": "Mar 30, 2025",
+      "season": "2024-25",
+      "matchup": "GSW @ SAS",
+      "minutes": 26,
+      "points": 13,
+      "fga": 10,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022401072",
+      "date": "Mar 28, 2025",
+      "season": "2024-25",
+      "matchup": "GSW @ NOP",
+      "minutes": 34,
+      "points": 23,
+      "fga": 21,
+      "fg3a": 16
+    },
+    {
+      "game_id": "0022401005",
+      "date": "Mar 20, 2025",
+      "season": "2024-25",
+      "matchup": "GSW vs. TOR",
+      "minutes": 25,
+      "points": 17,
+      "fga": 8,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400990",
+      "date": "Mar 17, 2025",
+      "season": "2024-25",
+      "matchup": "GSW vs. DEN",
+      "minutes": 36,
+      "points": 20,
+      "fga": 21,
+      "fg3a": 14
+    },
+    {
+      "game_id": "0022400974",
+      "date": "Mar 15, 2025",
+      "season": "2024-25",
+      "matchup": "GSW vs. NYK",
+      "minutes": 35,
+      "points": 28,
+      "fga": 20,
+      "fg3a": 13
+    },
+    {
+      "game_id": "0022400957",
+      "date": "Mar 13, 2025",
+      "season": "2024-25",
+      "matchup": "GSW vs. SAC",
+      "minutes": 30,
+      "points": 11,
+      "fga": 9,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400938",
+      "date": "Mar 10, 2025",
+      "season": "2024-25",
+      "matchup": "GSW vs. POR",
+      "minutes": 34,
+      "points": 24,
+      "fga": 14,
+      "fg3a": 11
+    },
+    {
+      "game_id": "0022400919",
+      "date": "Mar 08, 2025",
+      "season": "2024-25",
+      "matchup": "GSW vs. DET",
+      "minutes": 33,
+      "points": 32,
+      "fga": 22,
+      "fg3a": 15
+    },
+    {
+      "game_id": "0022400901",
+      "date": "Mar 06, 2025",
+      "season": "2024-25",
+      "matchup": "GSW @ BKN",
+      "minutes": 36,
+      "points": 40,
+      "fga": 20,
+      "fg3a": 13
+    },
+    {
+      "game_id": "0022400885",
+      "date": "Mar 04, 2025",
+      "season": "2024-25",
+      "matchup": "GSW @ NYK",
+      "minutes": 33,
+      "points": 28,
+      "fga": 21,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400875",
+      "date": "Mar 03, 2025",
+      "season": "2024-25",
+      "matchup": "GSW @ CHA",
+      "minutes": 30,
+      "points": 21,
+      "fga": 14,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400864",
+      "date": "Mar 01, 2025",
+      "season": "2024-25",
+      "matchup": "GSW @ PHI",
+      "minutes": 36,
+      "points": 29,
+      "fga": 18,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022400685",
+      "date": "Jan 31, 2025",
+      "season": "2024-25",
+      "matchup": "GSW vs. PHX",
+      "minutes": 31,
+      "points": 14,
+      "fga": 14,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400673",
+      "date": "Jan 29, 2025",
+      "season": "2024-25",
+      "matchup": "GSW vs. OKC",
+      "minutes": 33,
+      "points": 21,
+      "fga": 15,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400644",
+      "date": "Jan 25, 2025",
+      "season": "2024-25",
+      "matchup": "GSW vs. LAL",
+      "minutes": 32,
+      "points": 13,
+      "fga": 17,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400628",
+      "date": "Jan 23, 2025",
+      "season": "2024-25",
+      "matchup": "GSW vs. CHI",
+      "minutes": 31,
+      "points": 21,
+      "fga": 19,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022400619",
+      "date": "Jan 22, 2025",
+      "season": "2024-25",
+      "matchup": "GSW @ SAC",
+      "minutes": 34,
+      "points": 14,
+      "fga": 11,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400604",
+      "date": "Jan 20, 2025",
+      "season": "2024-25",
+      "matchup": "GSW vs. BOS",
+      "minutes": 27,
+      "points": 18,
+      "fga": 16,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022400589",
+      "date": "Jan 18, 2025",
+      "season": "2024-25",
+      "matchup": "GSW vs. WAS",
+      "minutes": 34,
+      "points": 26,
+      "fga": 22,
+      "fg3a": 14
+    },
+    {
+      "game_id": "0022400565",
+      "date": "Jan 15, 2025",
+      "season": "2024-25",
+      "matchup": "GSW @ MIN",
+      "minutes": 37,
+      "points": 31,
+      "fga": 21,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022400550",
+      "date": "Jan 13, 2025",
+      "season": "2024-25",
+      "matchup": "GSW @ TOR",
+      "minutes": 35,
+      "points": 26,
+      "fga": 17,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400518",
+      "date": "Jan 09, 2025",
+      "season": "2024-25",
+      "matchup": "GSW @ DET",
+      "minutes": 36,
+      "points": 17,
+      "fga": 21,
+      "fg3a": 14
+    },
+    {
+      "game_id": "0022400508",
+      "date": "Jan 07, 2025",
+      "season": "2024-25",
+      "matchup": "GSW vs. MIA",
+      "minutes": 33,
+      "points": 31,
+      "fga": 22,
+      "fg3a": 17
+    },
+    {
+      "game_id": "0022500508",
+      "date": "Jan 05, 2026",
+      "season": "2025-26",
+      "matchup": "GSW @ LAC",
+      "minutes": 34,
+      "points": 27,
+      "fga": 23,
+      "fg3a": 15
+    },
+    {
+      "game_id": "0022400492",
+      "date": "Jan 05, 2025",
+      "season": "2024-25",
+      "matchup": "GSW vs. SAC",
+      "minutes": 30,
+      "points": 26,
+      "fga": 12,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022500492",
+      "date": "Jan 03, 2026",
+      "season": "2025-26",
+      "matchup": "GSW vs. UTA",
+      "minutes": 34,
+      "points": 31,
+      "fga": 18,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022400467",
+      "date": "Jan 02, 2025",
+      "season": "2024-25",
+      "matchup": "GSW vs. PHI",
+      "minutes": 30,
+      "points": 30,
+      "fga": 15,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400845",
+      "date": "Feb 27, 2025",
+      "season": "2024-25",
+      "matchup": "GSW @ ORL",
+      "minutes": 34,
+      "points": 56,
+      "fga": 25,
+      "fg3a": 19
+    },
+    {
+      "game_id": "0022400834",
+      "date": "Feb 25, 2025",
+      "season": "2024-25",
+      "matchup": "GSW vs. CHA",
+      "minutes": 24,
+      "points": 15,
+      "fga": 14,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400812",
+      "date": "Feb 23, 2025",
+      "season": "2024-25",
+      "matchup": "GSW vs. DAL",
+      "minutes": 29,
+      "points": 30,
+      "fga": 20,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400805",
+      "date": "Feb 21, 2025",
+      "season": "2024-25",
+      "matchup": "GSW @ SAC",
+      "minutes": 31,
+      "points": 20,
+      "fga": 13,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400784",
+      "date": "Feb 13, 2025",
+      "season": "2024-25",
+      "matchup": "GSW @ HOU",
+      "minutes": 35,
+      "points": 27,
+      "fga": 17,
+      "fg3a": 13
+    },
+    {
+      "game_id": "0022400782",
+      "date": "Feb 12, 2025",
+      "season": "2024-25",
+      "matchup": "GSW @ DAL",
+      "minutes": 37,
+      "points": 25,
+      "fga": 23,
+      "fg3a": 13
+    },
+    {
+      "game_id": "0022400760",
+      "date": "Feb 10, 2025",
+      "season": "2024-25",
+      "matchup": "GSW @ MIL",
+      "minutes": 34,
+      "points": 38,
+      "fga": 24,
+      "fg3a": 16
+    },
+    {
+      "game_id": "0022400745",
+      "date": "Feb 08, 2025",
+      "season": "2024-25",
+      "matchup": "GSW @ CHI",
+      "minutes": 34,
+      "points": 34,
+      "fga": 19,
+      "fg3a": 16
+    },
+    {
+      "game_id": "0022400731",
+      "date": "Feb 06, 2025",
+      "season": "2024-25",
+      "matchup": "GSW @ LAL",
+      "minutes": 37,
+      "points": 37,
+      "fga": 35,
+      "fg3a": 20
+    },
+    {
+      "game_id": "0022400725",
+      "date": "Feb 05, 2025",
+      "season": "2024-25",
+      "matchup": "GSW @ UTA",
+      "minutes": 35,
+      "points": 32,
+      "fga": 31,
+      "fg3a": 18
+    },
+    {
+      "game_id": "0022400708",
+      "date": "Feb 03, 2025",
+      "season": "2024-25",
+      "matchup": "GSW vs. ORL",
+      "minutes": 34,
+      "points": 24,
+      "fga": 21,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022500462",
+      "date": "Dec 31, 2025",
+      "season": "2025-26",
+      "matchup": "GSW @ CHA",
+      "minutes": 33,
+      "points": 26,
+      "fga": 16,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400446",
+      "date": "Dec 30, 2024",
+      "season": "2024-25",
+      "matchup": "GSW vs. CLE",
+      "minutes": 29,
+      "points": 11,
+      "fga": 14,
+      "fg3a": 11
+    },
+    {
+      "game_id": "0022500449",
+      "date": "Dec 29, 2025",
+      "season": "2025-26",
+      "matchup": "GSW @ BKN",
+      "minutes": 29,
+      "points": 27,
+      "fga": 15,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022500441",
+      "date": "Dec 28, 2025",
+      "season": "2025-26",
+      "matchup": "GSW @ TOR",
+      "minutes": 41,
+      "points": 39,
+      "fga": 30,
+      "fg3a": 11
+    },
+    {
+      "game_id": "0022400431",
+      "date": "Dec 28, 2024",
+      "season": "2024-25",
+      "matchup": "GSW vs. PHX",
+      "minutes": 35,
+      "points": 22,
+      "fga": 22,
+      "fg3a": 13
+    },
+    {
+      "game_id": "0022500011",
+      "date": "Dec 25, 2025",
+      "season": "2025-26",
+      "matchup": "GSW vs. DAL",
+      "minutes": 33,
+      "points": 23,
+      "fga": 18,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400408",
+      "date": "Dec 25, 2024",
+      "season": "2024-25",
+      "matchup": "GSW vs. LAL",
+      "minutes": 36,
+      "points": 38,
+      "fga": 24,
+      "fg3a": 15
+    },
+    {
+      "game_id": "0022400403",
+      "date": "Dec 23, 2024",
+      "season": "2024-25",
+      "matchup": "GSW vs. IND",
+      "minutes": 35,
+      "points": 10,
+      "fga": 13,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022500407",
+      "date": "Dec 22, 2025",
+      "season": "2025-26",
+      "matchup": "GSW vs. ORL",
+      "minutes": 31,
+      "points": 26,
+      "fga": 23,
+      "fg3a": 13
+    },
+    {
+      "game_id": "0022400383",
+      "date": "Dec 21, 2024",
+      "season": "2024-25",
+      "matchup": "GSW @ MIN",
+      "minutes": 34,
+      "points": 31,
+      "fga": 21,
+      "fg3a": 16
+    },
+    {
+      "game_id": "0022500392",
+      "date": "Dec 20, 2025",
+      "season": "2025-26",
+      "matchup": "GSW vs. PHX",
+      "minutes": 35,
+      "points": 28,
+      "fga": 19,
+      "fg3a": 11
+    },
+    {
+      "game_id": "0022400366",
+      "date": "Dec 19, 2024",
+      "season": "2024-25",
+      "matchup": "GSW @ MEM",
+      "minutes": 24,
+      "points": 2,
+      "fga": 7,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022500378",
+      "date": "Dec 18, 2025",
+      "season": "2025-26",
+      "matchup": "GSW @ PHX",
+      "minutes": 33,
+      "points": 15,
+      "fga": 13,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022401228",
+      "date": "Dec 15, 2024",
+      "season": "2024-25",
+      "matchup": "GSW vs. DAL",
+      "minutes": 35,
+      "points": 26,
+      "fga": 19,
+      "fg3a": 13
+    },
+    {
+      "game_id": "0022501221",
+      "date": "Dec 14, 2025",
+      "season": "2025-26",
+      "matchup": "GSW @ POR",
+      "minutes": 35,
+      "points": 48,
+      "fga": 26,
+      "fg3a": 19
+    },
+    {
+      "game_id": "0022501215",
+      "date": "Dec 12, 2025",
+      "season": "2025-26",
+      "matchup": "GSW vs. MIN",
+      "minutes": 32,
+      "points": 39,
+      "fga": 28,
+      "fg3a": 15
+    },
+    {
+      "game_id": "0022401204",
+      "date": "Dec 11, 2024",
+      "season": "2024-25",
+      "matchup": "GSW @ HOU",
+      "minutes": 34,
+      "points": 19,
+      "fga": 17,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400355",
+      "date": "Dec 08, 2024",
+      "season": "2024-25",
+      "matchup": "GSW vs. MIN",
+      "minutes": 35,
+      "points": 30,
+      "fga": 18,
+      "fg3a": 11
+    },
+    {
+      "game_id": "0022400338",
+      "date": "Dec 06, 2024",
+      "season": "2024-25",
+      "matchup": "GSW vs. MIN",
+      "minutes": 32,
+      "points": 23,
+      "fga": 17,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400058",
+      "date": "Dec 03, 2024",
+      "season": "2024-25",
+      "matchup": "GSW @ DEN",
+      "minutes": 34,
+      "points": 24,
+      "fga": 23,
+      "fg3a": 15
+    },
+    {
+      "game_id": "0022401198",
+      "date": "Apr 13, 2025",
+      "season": "2024-25",
+      "matchup": "GSW vs. LAC",
+      "minutes": 38,
+      "points": 36,
+      "fga": 20,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022401183",
+      "date": "Apr 11, 2025",
+      "season": "2024-25",
+      "matchup": "GSW @ POR",
+      "minutes": 27,
+      "points": 14,
+      "fga": 14,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022401163",
+      "date": "Apr 09, 2025",
+      "season": "2024-25",
+      "matchup": "GSW vs. SAS",
+      "minutes": 37,
+      "points": 30,
+      "fga": 24,
+      "fg3a": 14
+    },
+    {
+      "game_id": "0022401154",
+      "date": "Apr 08, 2025",
+      "season": "2024-25",
+      "matchup": "GSW @ PHX",
+      "minutes": 26,
+      "points": 25,
+      "fga": 17,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022401143",
+      "date": "Apr 06, 2025",
+      "season": "2024-25",
+      "matchup": "GSW vs. HOU",
+      "minutes": 33,
+      "points": 3,
+      "fga": 10,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022401125",
+      "date": "Apr 04, 2025",
+      "season": "2024-25",
+      "matchup": "GSW vs. DEN",
+      "minutes": 32,
+      "points": 36,
+      "fga": 24,
+      "fg3a": 15
+    },
+    {
+      "game_id": "0022401117",
+      "date": "Apr 03, 2025",
+      "season": "2024-25",
+      "matchup": "GSW @ LAL",
+      "minutes": 34,
+      "points": 37,
+      "fga": 21,
+      "fg3a": 11
+    },
+    {
+      "game_id": "0022401100",
+      "date": "Apr 01, 2025",
+      "season": "2024-25",
+      "matchup": "GSW @ MEM",
+      "minutes": 37,
+      "points": 52,
+      "fga": 31,
+      "fg3a": 20
+    }
+  ]
+}

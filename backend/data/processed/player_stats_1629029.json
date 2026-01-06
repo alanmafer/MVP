@@ -1,0 +1,766 @@
+{
+  "player_id": 1629029,
+  "player_name": "Luka Don\u010di\u0107",
+  "games": [
+    {
+      "game_id": "0022500024",
+      "date": "Oct 31, 2025",
+      "season": "2025-26",
+      "matchup": "LAL @ MEM",
+      "minutes": 39,
+      "points": 44,
+      "fga": 27,
+      "fg3a": 15
+    },
+    {
+      "game_id": "0022400129",
+      "date": "Oct 31, 2024",
+      "season": "2024-25",
+      "matchup": "DAL vs. HOU",
+      "minutes": 38,
+      "points": 29,
+      "fga": 25,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400114",
+      "date": "Oct 29, 2024",
+      "season": "2024-25",
+      "matchup": "DAL @ MIN",
+      "minutes": 40,
+      "points": 24,
+      "fga": 27,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400110",
+      "date": "Oct 28, 2024",
+      "season": "2024-25",
+      "matchup": "DAL vs. UTA",
+      "minutes": 33,
+      "points": 15,
+      "fga": 22,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400095",
+      "date": "Oct 26, 2024",
+      "season": "2024-25",
+      "matchup": "DAL @ PHX",
+      "minutes": 39,
+      "points": 40,
+      "fga": 25,
+      "fg3a": 13
+    },
+    {
+      "game_id": "0022500019",
+      "date": "Oct 24, 2025",
+      "season": "2025-26",
+      "matchup": "LAL vs. MIN",
+      "minutes": 35,
+      "points": 49,
+      "fga": 23,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022400074",
+      "date": "Oct 24, 2024",
+      "season": "2024-25",
+      "matchup": "DAL vs. SAS",
+      "minutes": 36,
+      "points": 28,
+      "fga": 25,
+      "fg3a": 11
+    },
+    {
+      "game_id": "0022500002",
+      "date": "Oct 21, 2025",
+      "season": "2025-26",
+      "matchup": "LAL vs. GSW",
+      "minutes": 41,
+      "points": 43,
+      "fga": 27,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022500308",
+      "date": "Nov 30, 2025",
+      "season": "2025-26",
+      "matchup": "LAL vs. NOP",
+      "minutes": 35,
+      "points": 34,
+      "fga": 22,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022500078",
+      "date": "Nov 28, 2025",
+      "season": "2025-26",
+      "matchup": "LAL vs. DAL",
+      "minutes": 40,
+      "points": 35,
+      "fga": 18,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022500059",
+      "date": "Nov 25, 2025",
+      "season": "2025-26",
+      "matchup": "LAL vs. LAC",
+      "minutes": 38,
+      "points": 43,
+      "fga": 28,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022500282",
+      "date": "Nov 23, 2025",
+      "season": "2025-26",
+      "matchup": "LAL @ UTA",
+      "minutes": 40,
+      "points": 33,
+      "fga": 24,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022400024",
+      "date": "Nov 19, 2024",
+      "season": "2024-25",
+      "matchup": "DAL vs. NOP",
+      "minutes": 30,
+      "points": 26,
+      "fga": 16,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022500253",
+      "date": "Nov 18, 2025",
+      "season": "2025-26",
+      "matchup": "LAL vs. UTA",
+      "minutes": 34,
+      "points": 37,
+      "fga": 22,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400232",
+      "date": "Nov 16, 2024",
+      "season": "2024-25",
+      "matchup": "DAL vs. SAS",
+      "minutes": 28,
+      "points": 16,
+      "fga": 16,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022500231",
+      "date": "Nov 15, 2025",
+      "season": "2025-26",
+      "matchup": "LAL @ MIL",
+      "minutes": 38,
+      "points": 41,
+      "fga": 19,
+      "fg3a": 11
+    },
+    {
+      "game_id": "0022500045",
+      "date": "Nov 14, 2025",
+      "season": "2025-26",
+      "matchup": "LAL @ NOP",
+      "minutes": 40,
+      "points": 24,
+      "fga": 16,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400228",
+      "date": "Nov 14, 2024",
+      "season": "2024-25",
+      "matchup": "DAL @ UTA",
+      "minutes": 38,
+      "points": 37,
+      "fga": 25,
+      "fg3a": 13
+    },
+    {
+      "game_id": "0022500222",
+      "date": "Nov 12, 2025",
+      "season": "2025-26",
+      "matchup": "LAL @ OKC",
+      "minutes": 33,
+      "points": 19,
+      "fga": 20,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400007",
+      "date": "Nov 12, 2024",
+      "season": "2024-25",
+      "matchup": "DAL @ GSW",
+      "minutes": 41,
+      "points": 31,
+      "fga": 27,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022500198",
+      "date": "Nov 10, 2025",
+      "season": "2025-26",
+      "matchup": "LAL @ CHA",
+      "minutes": 38,
+      "points": 38,
+      "fga": 28,
+      "fg3a": 15
+    },
+    {
+      "game_id": "0022400208",
+      "date": "Nov 10, 2024",
+      "season": "2024-25",
+      "matchup": "DAL @ DEN",
+      "minutes": 41,
+      "points": 24,
+      "fga": 19,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022500185",
+      "date": "Nov 08, 2025",
+      "season": "2025-26",
+      "matchup": "LAL @ ATL",
+      "minutes": 27,
+      "points": 22,
+      "fga": 17,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400190",
+      "date": "Nov 08, 2024",
+      "season": "2024-25",
+      "matchup": "DAL vs. PHX",
+      "minutes": 42,
+      "points": 30,
+      "fga": 25,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022400176",
+      "date": "Nov 06, 2024",
+      "season": "2024-25",
+      "matchup": "DAL vs. CHI",
+      "minutes": 32,
+      "points": 27,
+      "fga": 19,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022500179",
+      "date": "Nov 05, 2025",
+      "season": "2025-26",
+      "matchup": "LAL vs. SAS",
+      "minutes": 42,
+      "points": 35,
+      "fga": 27,
+      "fg3a": 11
+    },
+    {
+      "game_id": "0022400165",
+      "date": "Nov 04, 2024",
+      "season": "2024-25",
+      "matchup": "DAL vs. IND",
+      "minutes": 42,
+      "points": 34,
+      "fga": 24,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400153",
+      "date": "Nov 03, 2024",
+      "season": "2024-25",
+      "matchup": "DAL vs. ORL",
+      "minutes": 32,
+      "points": 32,
+      "fga": 22,
+      "fg3a": 13
+    },
+    {
+      "game_id": "0022500155",
+      "date": "Nov 02, 2025",
+      "season": "2025-26",
+      "matchup": "LAL vs. MIA",
+      "minutes": 38,
+      "points": 29,
+      "fga": 22,
+      "fg3a": 11
+    },
+    {
+      "game_id": "0022401096",
+      "date": "Mar 31, 2025",
+      "season": "2024-25",
+      "matchup": "LAL vs. HOU",
+      "minutes": 38,
+      "points": 20,
+      "fga": 16,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022401078",
+      "date": "Mar 29, 2025",
+      "season": "2024-25",
+      "matchup": "LAL @ MEM",
+      "minutes": 38,
+      "points": 29,
+      "fga": 18,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022401063",
+      "date": "Mar 27, 2025",
+      "season": "2024-25",
+      "matchup": "LAL @ CHI",
+      "minutes": 38,
+      "points": 25,
+      "fga": 22,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022401055",
+      "date": "Mar 26, 2025",
+      "season": "2024-25",
+      "matchup": "LAL @ IND",
+      "minutes": 38,
+      "points": 34,
+      "fga": 21,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022401038",
+      "date": "Mar 24, 2025",
+      "season": "2024-25",
+      "matchup": "LAL @ ORL",
+      "minutes": 38,
+      "points": 32,
+      "fga": 23,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022401028",
+      "date": "Mar 22, 2025",
+      "season": "2024-25",
+      "matchup": "LAL vs. CHI",
+      "minutes": 32,
+      "points": 34,
+      "fga": 18,
+      "fg3a": 13
+    },
+    {
+      "game_id": "0022401006",
+      "date": "Mar 19, 2025",
+      "season": "2024-25",
+      "matchup": "LAL vs. DEN",
+      "minutes": 32,
+      "points": 31,
+      "fga": 21,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400537",
+      "date": "Mar 17, 2025",
+      "season": "2024-25",
+      "matchup": "LAL vs. SAS",
+      "minutes": 34,
+      "points": 21,
+      "fga": 20,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400977",
+      "date": "Mar 16, 2025",
+      "season": "2024-25",
+      "matchup": "LAL vs. PHX",
+      "minutes": 40,
+      "points": 33,
+      "fga": 20,
+      "fg3a": 11
+    },
+    {
+      "game_id": "0022400955",
+      "date": "Mar 13, 2025",
+      "season": "2024-25",
+      "matchup": "LAL @ MIL",
+      "minutes": 36,
+      "points": 45,
+      "fga": 27,
+      "fg3a": 13
+    },
+    {
+      "game_id": "0022400930",
+      "date": "Mar 10, 2025",
+      "season": "2024-25",
+      "matchup": "LAL @ BKN",
+      "minutes": 41,
+      "points": 22,
+      "fga": 26,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400918",
+      "date": "Mar 08, 2025",
+      "season": "2024-25",
+      "matchup": "LAL @ BOS",
+      "minutes": 37,
+      "points": 34,
+      "fga": 22,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400903",
+      "date": "Mar 06, 2025",
+      "season": "2024-25",
+      "matchup": "LAL vs. NYK",
+      "minutes": 43,
+      "points": 32,
+      "fga": 23,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022400890",
+      "date": "Mar 04, 2025",
+      "season": "2024-25",
+      "matchup": "LAL vs. NOP",
+      "minutes": 34,
+      "points": 30,
+      "fga": 19,
+      "fg3a": 13
+    },
+    {
+      "game_id": "0022400874",
+      "date": "Mar 02, 2025",
+      "season": "2024-25",
+      "matchup": "LAL vs. LAC",
+      "minutes": 37,
+      "points": 29,
+      "fga": 17,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022500501",
+      "date": "Jan 04, 2026",
+      "season": "2025-26",
+      "matchup": "LAL vs. MEM",
+      "minutes": 39,
+      "points": 36,
+      "fga": 20,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022500485",
+      "date": "Jan 02, 2026",
+      "season": "2025-26",
+      "matchup": "LAL vs. MEM",
+      "minutes": 38,
+      "points": 34,
+      "fga": 18,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400859",
+      "date": "Feb 28, 2025",
+      "season": "2024-25",
+      "matchup": "LAL vs. LAC",
+      "minutes": 35,
+      "points": 31,
+      "fga": 22,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400849",
+      "date": "Feb 27, 2025",
+      "season": "2024-25",
+      "matchup": "LAL vs. MIN",
+      "minutes": 36,
+      "points": 21,
+      "fga": 20,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400835",
+      "date": "Feb 25, 2025",
+      "season": "2024-25",
+      "matchup": "LAL vs. DAL",
+      "minutes": 35,
+      "points": 19,
+      "fga": 17,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400808",
+      "date": "Feb 22, 2025",
+      "season": "2024-25",
+      "matchup": "LAL @ DEN",
+      "minutes": 31,
+      "points": 32,
+      "fga": 22,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400524",
+      "date": "Feb 19, 2025",
+      "season": "2024-25",
+      "matchup": "LAL vs. CHA",
+      "minutes": 33,
+      "points": 14,
+      "fga": 18,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400781",
+      "date": "Feb 12, 2025",
+      "season": "2024-25",
+      "matchup": "LAL @ UTA",
+      "minutes": 23,
+      "points": 16,
+      "fga": 13,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400768",
+      "date": "Feb 10, 2025",
+      "season": "2024-25",
+      "matchup": "LAL vs. UTA",
+      "minutes": 24,
+      "points": 14,
+      "fga": 14,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022500460",
+      "date": "Dec 30, 2025",
+      "season": "2025-26",
+      "matchup": "LAL vs. DET",
+      "minutes": 36,
+      "points": 30,
+      "fga": 22,
+      "fg3a": 11
+    },
+    {
+      "game_id": "0022500446",
+      "date": "Dec 28, 2025",
+      "season": "2025-26",
+      "matchup": "LAL vs. SAC",
+      "minutes": 33,
+      "points": 34,
+      "fga": 23,
+      "fg3a": 14
+    },
+    {
+      "game_id": "0022500012",
+      "date": "Dec 25, 2025",
+      "season": "2025-26",
+      "matchup": "LAL vs. HOU",
+      "minutes": 34,
+      "points": 25,
+      "fga": 17,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400406",
+      "date": "Dec 25, 2024",
+      "season": "2024-25",
+      "matchup": "DAL vs. MIN",
+      "minutes": 16,
+      "points": 14,
+      "fga": 9,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022400401",
+      "date": "Dec 23, 2024",
+      "season": "2024-25",
+      "matchup": "DAL vs. POR",
+      "minutes": 30,
+      "points": 27,
+      "fga": 19,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022500395",
+      "date": "Dec 20, 2025",
+      "season": "2025-26",
+      "matchup": "LAL @ LAC",
+      "minutes": 20,
+      "points": 12,
+      "fga": 13,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022500379",
+      "date": "Dec 18, 2025",
+      "season": "2025-26",
+      "matchup": "LAL @ UTA",
+      "minutes": 40,
+      "points": 45,
+      "fga": 28,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022401228",
+      "date": "Dec 15, 2024",
+      "season": "2024-25",
+      "matchup": "DAL @ GSW",
+      "minutes": 38,
+      "points": 45,
+      "fga": 23,
+      "fg3a": 11
+    },
+    {
+      "game_id": "0022501228",
+      "date": "Dec 14, 2025",
+      "season": "2025-26",
+      "matchup": "LAL @ PHX",
+      "minutes": 38,
+      "points": 29,
+      "fga": 25,
+      "fg3a": 14
+    },
+    {
+      "game_id": "0022501204",
+      "date": "Dec 10, 2025",
+      "season": "2025-26",
+      "matchup": "LAL vs. SAS",
+      "minutes": 41,
+      "points": 35,
+      "fga": 24,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022401203",
+      "date": "Dec 10, 2024",
+      "season": "2024-25",
+      "matchup": "DAL @ OKC",
+      "minutes": 40,
+      "points": 16,
+      "fga": 15,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022500362",
+      "date": "Dec 07, 2025",
+      "season": "2025-26",
+      "matchup": "LAL @ PHI",
+      "minutes": 39,
+      "points": 31,
+      "fga": 24,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400344",
+      "date": "Dec 07, 2024",
+      "season": "2024-25",
+      "matchup": "DAL @ TOR",
+      "minutes": 38,
+      "points": 30,
+      "fga": 20,
+      "fg3a": 13
+    },
+    {
+      "game_id": "0022400326",
+      "date": "Dec 05, 2024",
+      "season": "2024-25",
+      "matchup": "DAL @ WAS",
+      "minutes": 32,
+      "points": 21,
+      "fga": 17,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400056",
+      "date": "Dec 03, 2024",
+      "season": "2024-25",
+      "matchup": "DAL vs. MEM",
+      "minutes": 40,
+      "points": 37,
+      "fga": 22,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022500317",
+      "date": "Dec 01, 2025",
+      "season": "2025-26",
+      "matchup": "LAL vs. PHX",
+      "minutes": 32,
+      "points": 38,
+      "fga": 26,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400312",
+      "date": "Dec 01, 2024",
+      "season": "2024-25",
+      "matchup": "DAL @ POR",
+      "minutes": 36,
+      "points": 36,
+      "fga": 24,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022401185",
+      "date": "Apr 11, 2025",
+      "season": "2024-25",
+      "matchup": "LAL vs. HOU",
+      "minutes": 31,
+      "points": 39,
+      "fga": 19,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022401159",
+      "date": "Apr 09, 2025",
+      "season": "2024-25",
+      "matchup": "LAL @ DAL",
+      "minutes": 38,
+      "points": 45,
+      "fga": 28,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022401153",
+      "date": "Apr 08, 2025",
+      "season": "2024-25",
+      "matchup": "LAL @ OKC",
+      "minutes": 31,
+      "points": 23,
+      "fga": 15,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022401135",
+      "date": "Apr 06, 2025",
+      "season": "2024-25",
+      "matchup": "LAL @ OKC",
+      "minutes": 37,
+      "points": 30,
+      "fga": 20,
+      "fg3a": 11
+    },
+    {
+      "game_id": "0022401126",
+      "date": "Apr 04, 2025",
+      "season": "2024-25",
+      "matchup": "LAL vs. NOP",
+      "minutes": 36,
+      "points": 35,
+      "fga": 21,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022401117",
+      "date": "Apr 03, 2025",
+      "season": "2024-25",
+      "matchup": "LAL vs. GSW",
+      "minutes": 38,
+      "points": 19,
+      "fga": 17,
+      "fg3a": 6
+    }
+  ]
+}

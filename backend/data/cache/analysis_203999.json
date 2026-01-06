@@ -1,0 +1,52 @@
+{
+  "player_id": 203999,
+  "player_name": "Nikola Joki\u0107",
+  "line": 25.5,
+  "scenarios": {
+    "overall": {
+      "average": 29.598039215686274,
+      "median": 28.0,
+      "over": {
+        "line": 25.5,
+        "percentage": 67.64705882352942
+      }
+    },
+    "home_away": {
+      "home": {
+        "average": 30.666666666666668,
+        "median": 29,
+        "over_pct": 74.50980392156863
+      },
+      "away": {
+        "average": 28.529411764705884,
+        "median": 27,
+        "over_pct": 60.78431372549019
+      }
+    },
+    "recency": {
+      "last_5": {
+        "average": 27.2,
+        "median": 25,
+        "over_pct": 40.0
+      },
+      "last_10": {
+        "average": 25.4,
+        "median": 23.0,
+        "over_pct": 40.0
+      }
+    },
+    "offensive_volume": {
+      "fga_average": 18.862745098039216,
+      "high_fga": {
+        "average": 35.0,
+        "median": 34,
+        "over_pct": 86.27450980392157
+      },
+      "low_fga": {
+        "average": 24.19607843137255,
+        "median": 25,
+        "over_pct": 49.01960784313725
+      }
+    }
+  }
+}

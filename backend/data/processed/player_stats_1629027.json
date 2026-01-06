@@ -1,0 +1,866 @@
+{
+  "player_id": 1629027,
+  "player_name": "Trae Young",
+  "games": [
+    {
+      "game_id": "0022400121",
+      "date": "Oct 30, 2024",
+      "season": "2024-25",
+      "matchup": "ATL @ WAS",
+      "minutes": 40,
+      "points": 35,
+      "fga": 28,
+      "fg3a": 13
+    },
+    {
+      "game_id": "0022500130",
+      "date": "Oct 29, 2025",
+      "season": "2025-26",
+      "matchup": "ATL @ BKN",
+      "minutes": 7,
+      "points": 6,
+      "fga": 4,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400103",
+      "date": "Oct 28, 2024",
+      "season": "2024-25",
+      "matchup": "ATL vs. WAS",
+      "minutes": 36,
+      "points": 14,
+      "fga": 15,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022500115",
+      "date": "Oct 27, 2025",
+      "season": "2025-26",
+      "matchup": "ATL @ CHI",
+      "minutes": 34,
+      "points": 21,
+      "fga": 22,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400100",
+      "date": "Oct 27, 2024",
+      "season": "2024-25",
+      "matchup": "ATL @ OKC",
+      "minutes": 37,
+      "points": 24,
+      "fga": 14,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022500101",
+      "date": "Oct 25, 2025",
+      "season": "2025-26",
+      "matchup": "ATL vs. OKC",
+      "minutes": 30,
+      "points": 15,
+      "fga": 12,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400079",
+      "date": "Oct 25, 2024",
+      "season": "2024-25",
+      "matchup": "ATL vs. CHA",
+      "minutes": 41,
+      "points": 38,
+      "fga": 24,
+      "fg3a": 14
+    },
+    {
+      "game_id": "0022500090",
+      "date": "Oct 24, 2025",
+      "season": "2025-26",
+      "matchup": "ATL @ ORL",
+      "minutes": 34,
+      "points": 25,
+      "fga": 18,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400064",
+      "date": "Oct 23, 2024",
+      "season": "2024-25",
+      "matchup": "ATL vs. BKN",
+      "minutes": 37,
+      "points": 30,
+      "fga": 16,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022500082",
+      "date": "Oct 22, 2025",
+      "season": "2025-26",
+      "matchup": "ATL vs. TOR",
+      "minutes": 34,
+      "points": 22,
+      "fga": 14,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400300",
+      "date": "Nov 30, 2024",
+      "season": "2024-25",
+      "matchup": "ATL @ CHA",
+      "minutes": 31,
+      "points": 14,
+      "fga": 9,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400041",
+      "date": "Nov 29, 2024",
+      "season": "2024-25",
+      "matchup": "ATL vs. CLE",
+      "minutes": 35,
+      "points": 21,
+      "fga": 12,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022400287",
+      "date": "Nov 27, 2024",
+      "season": "2024-25",
+      "matchup": "ATL @ CLE",
+      "minutes": 37,
+      "points": 20,
+      "fga": 18,
+      "fg3a": 13
+    },
+    {
+      "game_id": "0022400280",
+      "date": "Nov 25, 2024",
+      "season": "2024-25",
+      "matchup": "ATL vs. DAL",
+      "minutes": 35,
+      "points": 18,
+      "fga": 12,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400030",
+      "date": "Nov 22, 2024",
+      "season": "2024-25",
+      "matchup": "ATL @ CHI",
+      "minutes": 38,
+      "points": 25,
+      "fga": 18,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400258",
+      "date": "Nov 20, 2024",
+      "season": "2024-25",
+      "matchup": "ATL @ GSW",
+      "minutes": 30,
+      "points": 12,
+      "fga": 12,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400250",
+      "date": "Nov 18, 2024",
+      "season": "2024-25",
+      "matchup": "ATL @ SAC",
+      "minutes": 36,
+      "points": 7,
+      "fga": 7,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400239",
+      "date": "Nov 17, 2024",
+      "season": "2024-25",
+      "matchup": "ATL @ POR",
+      "minutes": 38,
+      "points": 29,
+      "fga": 16,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400012",
+      "date": "Nov 15, 2024",
+      "season": "2024-25",
+      "matchup": "ATL vs. WAS",
+      "minutes": 33,
+      "points": 18,
+      "fga": 18,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400198",
+      "date": "Nov 09, 2024",
+      "season": "2024-25",
+      "matchup": "ATL vs. CHI",
+      "minutes": 38,
+      "points": 14,
+      "fga": 16,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400185",
+      "date": "Nov 08, 2024",
+      "season": "2024-25",
+      "matchup": "ATL @ DET",
+      "minutes": 41,
+      "points": 35,
+      "fga": 25,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022400171",
+      "date": "Nov 06, 2024",
+      "season": "2024-25",
+      "matchup": "ATL vs. NYK",
+      "minutes": 35,
+      "points": 23,
+      "fga": 21,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400157",
+      "date": "Nov 04, 2024",
+      "season": "2024-25",
+      "matchup": "ATL vs. BOS",
+      "minutes": 23,
+      "points": 2,
+      "fga": 10,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400152",
+      "date": "Nov 03, 2024",
+      "season": "2024-25",
+      "matchup": "ATL @ NOP",
+      "minutes": 31,
+      "points": 23,
+      "fga": 15,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400135",
+      "date": "Nov 01, 2024",
+      "season": "2024-25",
+      "matchup": "ATL vs. SAC",
+      "minutes": 42,
+      "points": 25,
+      "fga": 21,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022401083",
+      "date": "Mar 30, 2025",
+      "season": "2024-25",
+      "matchup": "ATL @ MIL",
+      "minutes": 37,
+      "points": 19,
+      "fga": 16,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022401062",
+      "date": "Mar 27, 2025",
+      "season": "2024-25",
+      "matchup": "ATL @ MIA",
+      "minutes": 36,
+      "points": 29,
+      "fga": 21,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022401049",
+      "date": "Mar 25, 2025",
+      "season": "2024-25",
+      "matchup": "ATL @ HOU",
+      "minutes": 39,
+      "points": 19,
+      "fga": 17,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022401031",
+      "date": "Mar 23, 2025",
+      "season": "2024-25",
+      "matchup": "ATL vs. PHI",
+      "minutes": 33,
+      "points": 28,
+      "fga": 12,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022401025",
+      "date": "Mar 22, 2025",
+      "season": "2024-25",
+      "matchup": "ATL vs. GSW",
+      "minutes": 35,
+      "points": 25,
+      "fga": 15,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400993",
+      "date": "Mar 18, 2025",
+      "season": "2024-25",
+      "matchup": "ATL @ CHA",
+      "minutes": 31,
+      "points": 31,
+      "fga": 20,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400978",
+      "date": "Mar 16, 2025",
+      "season": "2024-25",
+      "matchup": "ATL @ BKN",
+      "minutes": 39,
+      "points": 28,
+      "fga": 18,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022400960",
+      "date": "Mar 14, 2025",
+      "season": "2024-25",
+      "matchup": "ATL vs. LAC",
+      "minutes": 34,
+      "points": 17,
+      "fga": 18,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400945",
+      "date": "Mar 12, 2025",
+      "season": "2024-25",
+      "matchup": "ATL vs. CHA",
+      "minutes": 35,
+      "points": 35,
+      "fga": 20,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022400914",
+      "date": "Mar 08, 2025",
+      "season": "2024-25",
+      "matchup": "ATL vs. IND",
+      "minutes": 33,
+      "points": 36,
+      "fga": 24,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022400899",
+      "date": "Mar 06, 2025",
+      "season": "2024-25",
+      "matchup": "ATL vs. IND",
+      "minutes": 36,
+      "points": 22,
+      "fga": 17,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022400884",
+      "date": "Mar 04, 2025",
+      "season": "2024-25",
+      "matchup": "ATL vs. MIL",
+      "minutes": 35,
+      "points": 28,
+      "fga": 24,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400878",
+      "date": "Mar 03, 2025",
+      "season": "2024-25",
+      "matchup": "ATL @ MEM",
+      "minutes": 36,
+      "points": 12,
+      "fga": 17,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400675",
+      "date": "Jan 30, 2025",
+      "season": "2024-25",
+      "matchup": "ATL @ CLE",
+      "minutes": 32,
+      "points": 15,
+      "fga": 16,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400532",
+      "date": "Jan 28, 2025",
+      "season": "2024-25",
+      "matchup": "ATL vs. HOU",
+      "minutes": 34,
+      "points": 21,
+      "fga": 16,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400639",
+      "date": "Jan 25, 2025",
+      "season": "2024-25",
+      "matchup": "ATL vs. TOR",
+      "minutes": 38,
+      "points": 16,
+      "fga": 12,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400623",
+      "date": "Jan 23, 2025",
+      "season": "2024-25",
+      "matchup": "ATL vs. TOR",
+      "minutes": 39,
+      "points": 18,
+      "fga": 19,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400612",
+      "date": "Jan 22, 2025",
+      "season": "2024-25",
+      "matchup": "ATL vs. DET",
+      "minutes": 40,
+      "points": 13,
+      "fga": 13,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400602",
+      "date": "Jan 20, 2025",
+      "season": "2024-25",
+      "matchup": "ATL @ NYK",
+      "minutes": 35,
+      "points": 27,
+      "fga": 22,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022400587",
+      "date": "Jan 18, 2025",
+      "season": "2024-25",
+      "matchup": "ATL @ BOS",
+      "minutes": 39,
+      "points": 28,
+      "fga": 23,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400556",
+      "date": "Jan 14, 2025",
+      "season": "2024-25",
+      "matchup": "ATL vs. PHX",
+      "minutes": 38,
+      "points": 43,
+      "fga": 31,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022400522",
+      "date": "Jan 09, 2025",
+      "season": "2024-25",
+      "matchup": "ATL @ PHX",
+      "minutes": 34,
+      "points": 21,
+      "fga": 15,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400506",
+      "date": "Jan 07, 2025",
+      "season": "2024-25",
+      "matchup": "ATL @ UTA",
+      "minutes": 37,
+      "points": 24,
+      "fga": 16,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400486",
+      "date": "Jan 04, 2025",
+      "season": "2024-25",
+      "matchup": "ATL @ LAC",
+      "minutes": 34,
+      "points": 20,
+      "fga": 16,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400477",
+      "date": "Jan 03, 2025",
+      "season": "2024-25",
+      "matchup": "ATL @ LAL",
+      "minutes": 36,
+      "points": 33,
+      "fga": 22,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400461",
+      "date": "Jan 01, 2025",
+      "season": "2024-25",
+      "matchup": "ATL @ DEN",
+      "minutes": 30,
+      "points": 30,
+      "fga": 17,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400851",
+      "date": "Feb 28, 2025",
+      "season": "2024-25",
+      "matchup": "ATL vs. OKC",
+      "minutes": 35,
+      "points": 19,
+      "fga": 14,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022400841",
+      "date": "Feb 26, 2025",
+      "season": "2024-25",
+      "matchup": "ATL @ MIA",
+      "minutes": 36,
+      "points": 17,
+      "fga": 12,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400825",
+      "date": "Feb 24, 2025",
+      "season": "2024-25",
+      "matchup": "ATL vs. MIA",
+      "minutes": 38,
+      "points": 11,
+      "fga": 14,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400814",
+      "date": "Feb 23, 2025",
+      "season": "2024-25",
+      "matchup": "ATL vs. DET",
+      "minutes": 38,
+      "points": 38,
+      "fga": 24,
+      "fg3a": 15
+    },
+    {
+      "game_id": "0022400790",
+      "date": "Feb 20, 2025",
+      "season": "2024-25",
+      "matchup": "ATL vs. ORL",
+      "minutes": 37,
+      "points": 38,
+      "fga": 28,
+      "fg3a": 13
+    },
+    {
+      "game_id": "0022400773",
+      "date": "Feb 12, 2025",
+      "season": "2024-25",
+      "matchup": "ATL @ NYK",
+      "minutes": 44,
+      "points": 38,
+      "fga": 29,
+      "fg3a": 11
+    },
+    {
+      "game_id": "0022400756",
+      "date": "Feb 10, 2025",
+      "season": "2024-25",
+      "matchup": "ATL @ ORL",
+      "minutes": 37,
+      "points": 19,
+      "fga": 17,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400744",
+      "date": "Feb 08, 2025",
+      "season": "2024-25",
+      "matchup": "ATL @ WAS",
+      "minutes": 35,
+      "points": 35,
+      "fga": 26,
+      "fg3a": 14
+    },
+    {
+      "game_id": "0022400736",
+      "date": "Feb 07, 2025",
+      "season": "2024-25",
+      "matchup": "ATL vs. MIL",
+      "minutes": 35,
+      "points": 24,
+      "fga": 22,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400719",
+      "date": "Feb 05, 2025",
+      "season": "2024-25",
+      "matchup": "ATL vs. SAS",
+      "minutes": 43,
+      "points": 32,
+      "fga": 21,
+      "fg3a": 11
+    },
+    {
+      "game_id": "0022400701",
+      "date": "Feb 03, 2025",
+      "season": "2024-25",
+      "matchup": "ATL @ DET",
+      "minutes": 35,
+      "points": 34,
+      "fga": 16,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400686",
+      "date": "Feb 01, 2025",
+      "season": "2024-25",
+      "matchup": "ATL @ IND",
+      "minutes": 37,
+      "points": 34,
+      "fga": 26,
+      "fg3a": 15
+    },
+    {
+      "game_id": "0022400438",
+      "date": "Dec 29, 2024",
+      "season": "2024-25",
+      "matchup": "ATL @ TOR",
+      "minutes": 32,
+      "points": 34,
+      "fga": 21,
+      "fg3a": 13
+    },
+    {
+      "game_id": "0022400427",
+      "date": "Dec 28, 2024",
+      "season": "2024-25",
+      "matchup": "ATL vs. MIA",
+      "minutes": 37,
+      "points": 11,
+      "fga": 13,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022500435",
+      "date": "Dec 27, 2025",
+      "season": "2025-26",
+      "matchup": "ATL vs. NYK",
+      "minutes": 31,
+      "points": 9,
+      "fga": 9,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022500423",
+      "date": "Dec 26, 2025",
+      "season": "2025-26",
+      "matchup": "ATL vs. MIA",
+      "minutes": 32,
+      "points": 30,
+      "fga": 16,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400413",
+      "date": "Dec 26, 2024",
+      "season": "2024-25",
+      "matchup": "ATL vs. CHI",
+      "minutes": 39,
+      "points": 27,
+      "fga": 17,
+      "fg3a": 11
+    },
+    {
+      "game_id": "0022500411",
+      "date": "Dec 23, 2025",
+      "season": "2025-26",
+      "matchup": "ATL vs. CHI",
+      "minutes": 31,
+      "points": 22,
+      "fga": 16,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400395",
+      "date": "Dec 23, 2024",
+      "season": "2024-25",
+      "matchup": "ATL vs. MIN",
+      "minutes": 31,
+      "points": 29,
+      "fga": 15,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022500396",
+      "date": "Dec 21, 2025",
+      "season": "2025-26",
+      "matchup": "ATL vs. CHI",
+      "minutes": 26,
+      "points": 35,
+      "fga": 16,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400370",
+      "date": "Dec 19, 2024",
+      "season": "2024-25",
+      "matchup": "ATL @ SAS",
+      "minutes": 37,
+      "points": 23,
+      "fga": 16,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022500371",
+      "date": "Dec 18, 2025",
+      "season": "2025-26",
+      "matchup": "ATL @ CHA",
+      "minutes": 20,
+      "points": 8,
+      "fga": 8,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022401229",
+      "date": "Dec 14, 2024",
+      "season": "2024-25",
+      "matchup": "ATL @ MIL",
+      "minutes": 40,
+      "points": 35,
+      "fga": 18,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022401202",
+      "date": "Dec 11, 2024",
+      "season": "2024-25",
+      "matchup": "ATL @ NYK",
+      "minutes": 36,
+      "points": 22,
+      "fga": 22,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400350",
+      "date": "Dec 08, 2024",
+      "season": "2024-25",
+      "matchup": "ATL vs. DEN",
+      "minutes": 35,
+      "points": 15,
+      "fga": 13,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400334",
+      "date": "Dec 06, 2024",
+      "season": "2024-25",
+      "matchup": "ATL vs. LAL",
+      "minutes": 42,
+      "points": 31,
+      "fga": 25,
+      "fg3a": 13
+    },
+    {
+      "game_id": "0022400323",
+      "date": "Dec 04, 2024",
+      "season": "2024-25",
+      "matchup": "ATL @ MIL",
+      "minutes": 35,
+      "points": 17,
+      "fga": 19,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400315",
+      "date": "Dec 02, 2024",
+      "season": "2024-25",
+      "matchup": "ATL vs. NOP",
+      "minutes": 36,
+      "points": 12,
+      "fga": 16,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022401173",
+      "date": "Apr 11, 2025",
+      "season": "2024-25",
+      "matchup": "ATL @ PHI",
+      "minutes": 36,
+      "points": 36,
+      "fga": 22,
+      "fg3a": 13
+    },
+    {
+      "game_id": "0022401169",
+      "date": "Apr 10, 2025",
+      "season": "2024-25",
+      "matchup": "ATL @ BKN",
+      "minutes": 31,
+      "points": 24,
+      "fga": 15,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022401149",
+      "date": "Apr 08, 2025",
+      "season": "2024-25",
+      "matchup": "ATL @ ORL",
+      "minutes": 37,
+      "points": 28,
+      "fga": 20,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022401136",
+      "date": "Apr 06, 2025",
+      "season": "2024-25",
+      "matchup": "ATL vs. UTA",
+      "minutes": 37,
+      "points": 23,
+      "fga": 16,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022401128",
+      "date": "Apr 05, 2025",
+      "season": "2024-25",
+      "matchup": "ATL vs. NYK",
+      "minutes": 32,
+      "points": 16,
+      "fga": 15,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022401109",
+      "date": "Apr 02, 2025",
+      "season": "2024-25",
+      "matchup": "ATL @ DAL",
+      "minutes": 40,
+      "points": 25,
+      "fga": 20,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022401097",
+      "date": "Apr 01, 2025",
+      "season": "2024-25",
+      "matchup": "ATL vs. POR",
+      "minutes": 36,
+      "points": 29,
+      "fga": 20,
+      "fg3a": 7
+    }
+  ]
+}

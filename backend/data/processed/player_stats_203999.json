@@ -1,713 +1,1026 @@
-[
-  {
-    "game_id": "0022301193",
-    "date": "Apr 14, 2024",
-    "matchup": "DEN @ MEM",
-    "minutes": 31,
-    "points": 7,
-    "fga": 11,
-    "fg3a": 0
-  },
-  {
-    "game_id": "0022301180",
-    "date": "Apr 12, 2024",
-    "matchup": "DEN @ SAS",
-    "minutes": 39,
-    "points": 9,
-    "fga": 13,
-    "fg3a": 2
-  },
-  {
-    "game_id": "0022301164",
-    "date": "Apr 10, 2024",
-    "matchup": "DEN vs. MIN",
-    "minutes": 38,
-    "points": 16,
-    "fga": 20,
-    "fg3a": 2
-  },
-  {
-    "game_id": "0022301154",
-    "date": "Apr 09, 2024",
-    "matchup": "DEN @ UTA",
-    "minutes": 34,
-    "points": 12,
-    "fga": 20,
-    "fg3a": 2
-  },
-  {
-    "game_id": "0022301130",
-    "date": "Apr 06, 2024",
-    "matchup": "DEN vs. ATL",
-    "minutes": 31,
-    "points": 6,
-    "fga": 13,
-    "fg3a": 3
-  },
-  {
-    "game_id": "0022301114",
-    "date": "Apr 04, 2024",
-    "matchup": "DEN @ LAC",
-    "minutes": 40,
-    "points": 14,
-    "fga": 24,
-    "fg3a": 8
-  },
-  {
-    "game_id": "0022301099",
-    "date": "Apr 02, 2024",
-    "matchup": "DEN vs. SAS",
-    "minutes": 38,
-    "points": 18,
-    "fga": 32,
-    "fg3a": 6
-  },
-  {
-    "game_id": "0022301077",
-    "date": "Mar 31, 2024",
-    "matchup": "DEN vs. CLE",
-    "minutes": 35,
-    "points": 11,
-    "fga": 18,
-    "fg3a": 2
-  },
-  {
-    "game_id": "0022301071",
-    "date": "Mar 29, 2024",
-    "matchup": "DEN vs. MIN",
-    "minutes": 37,
-    "points": 11,
-    "fga": 24,
-    "fg3a": 3
-  },
-  {
-    "game_id": "0022301059",
-    "date": "Mar 27, 2024",
-    "matchup": "DEN vs. PHX",
-    "minutes": 42,
-    "points": 9,
-    "fga": 16,
-    "fg3a": 5
-  },
-  {
-    "game_id": "0022301040",
-    "date": "Mar 25, 2024",
-    "matchup": "DEN vs. MEM",
-    "minutes": 31,
-    "points": 11,
-    "fga": 18,
-    "fg3a": 2
-  },
-  {
-    "game_id": "0022301009",
-    "date": "Mar 21, 2024",
-    "matchup": "DEN vs. NYK",
-    "minutes": 39,
-    "points": 12,
-    "fga": 23,
-    "fg3a": 1
-  },
-  {
-    "game_id": "0022300995",
-    "date": "Mar 19, 2024",
-    "matchup": "DEN @ MIN",
-    "minutes": 38,
-    "points": 14,
-    "fga": 22,
-    "fg3a": 4
-  },
-  {
-    "game_id": "0022300978",
-    "date": "Mar 17, 2024",
-    "matchup": "DEN @ DAL",
-    "minutes": 39,
-    "points": 6,
-    "fga": 16,
-    "fg3a": 2
-  },
-  {
-    "game_id": "0022300965",
-    "date": "Mar 15, 2024",
-    "matchup": "DEN @ SAS",
-    "minutes": 31,
-    "points": 13,
-    "fga": 19,
-    "fg3a": 3
-  },
-  {
-    "game_id": "0022300949",
-    "date": "Mar 13, 2024",
-    "matchup": "DEN @ MIA",
-    "minutes": 38,
-    "points": 5,
-    "fga": 8,
-    "fg3a": 0
-  },
-  {
-    "game_id": "0022300937",
-    "date": "Mar 11, 2024",
-    "matchup": "DEN vs. TOR",
-    "minutes": 38,
-    "points": 14,
-    "fga": 26,
-    "fg3a": 3
-  },
-  {
-    "game_id": "0022300922",
-    "date": "Mar 09, 2024",
-    "matchup": "DEN vs. UTA",
-    "minutes": 32,
-    "points": 12,
-    "fga": 14,
-    "fg3a": 0
-  },
-  {
-    "game_id": "0022300906",
-    "date": "Mar 07, 2024",
-    "matchup": "DEN vs. BOS",
-    "minutes": 39,
-    "points": 11,
-    "fga": 19,
-    "fg3a": 0
-  },
-  {
-    "game_id": "0022300893",
-    "date": "Mar 05, 2024",
-    "matchup": "DEN vs. PHX",
-    "minutes": 44,
-    "points": 8,
-    "fga": 18,
-    "fg3a": 7
-  },
-  {
-    "game_id": "0022300869",
-    "date": "Mar 02, 2024",
-    "matchup": "DEN @ LAL",
-    "minutes": 39,
-    "points": 16,
-    "fga": 25,
-    "fg3a": 5
-  },
-  {
-    "game_id": "0022300855",
-    "date": "Feb 29, 2024",
-    "matchup": "DEN vs. MIA",
-    "minutes": 38,
-    "points": 6,
-    "fga": 15,
-    "fg3a": 3
-  },
-  {
-    "game_id": "0022300847",
-    "date": "Feb 28, 2024",
-    "matchup": "DEN vs. SAC",
-    "minutes": 32,
-    "points": 5,
-    "fga": 9,
-    "fg3a": 0
-  },
-  {
-    "game_id": "0022300824",
-    "date": "Feb 25, 2024",
-    "matchup": "DEN @ GSW",
-    "minutes": 37,
-    "points": 13,
-    "fga": 24,
-    "fg3a": 6
-  },
-  {
-    "game_id": "0022300812",
-    "date": "Feb 23, 2024",
-    "matchup": "DEN @ POR",
-    "minutes": 35,
-    "points": 12,
-    "fga": 17,
-    "fg3a": 3
-  },
-  {
-    "game_id": "0022300800",
-    "date": "Feb 22, 2024",
-    "matchup": "DEN vs. WAS",
-    "minutes": 31,
-    "points": 10,
-    "fga": 10,
-    "fg3a": 0
-  },
-  {
-    "game_id": "0022300786",
-    "date": "Feb 14, 2024",
-    "matchup": "DEN vs. SAC",
-    "minutes": 39,
-    "points": 6,
-    "fga": 17,
-    "fg3a": 6
-  },
-  {
-    "game_id": "0022300767",
-    "date": "Feb 12, 2024",
-    "matchup": "DEN @ MIL",
-    "minutes": 32,
-    "points": 13,
-    "fga": 25,
-    "fg3a": 5
-  },
-  {
-    "game_id": "0022300746",
-    "date": "Feb 09, 2024",
-    "matchup": "DEN @ SAC",
-    "minutes": 30,
-    "points": 9,
-    "fga": 17,
-    "fg3a": 1
-  },
-  {
-    "game_id": "0022300740",
-    "date": "Feb 08, 2024",
-    "matchup": "DEN @ LAL",
-    "minutes": 36,
-    "points": 9,
-    "fga": 20,
-    "fg3a": 6
-  },
-  {
-    "game_id": "0022300712",
-    "date": "Feb 04, 2024",
-    "matchup": "DEN vs. POR",
-    "minutes": 34,
-    "points": 12,
-    "fga": 20,
-    "fg3a": 3
-  },
-  {
-    "game_id": "0022300697",
-    "date": "Feb 02, 2024",
-    "matchup": "DEN vs. POR",
-    "minutes": 38,
-    "points": 11,
-    "fga": 16,
-    "fg3a": 1
-  },
-  {
-    "game_id": "0022300667",
-    "date": "Jan 29, 2024",
-    "matchup": "DEN vs. MIL",
-    "minutes": 40,
-    "points": 10,
-    "fga": 25,
-    "fg3a": 6
-  },
-  {
-    "game_id": "0022300644",
-    "date": "Jan 27, 2024",
-    "matchup": "DEN vs. PHI",
-    "minutes": 37,
-    "points": 8,
-    "fga": 16,
-    "fg3a": 1
-  },
-  {
-    "game_id": "0022300631",
-    "date": "Jan 25, 2024",
-    "matchup": "DEN @ NYK",
-    "minutes": 27,
-    "points": 13,
-    "fga": 18,
-    "fg3a": 3
-  },
-  {
-    "game_id": "0022300614",
-    "date": "Jan 23, 2024",
-    "matchup": "DEN @ IND",
-    "minutes": 37,
-    "points": 13,
-    "fga": 19,
-    "fg3a": 4
-  },
-  {
-    "game_id": "0022300602",
-    "date": "Jan 21, 2024",
-    "matchup": "DEN @ WAS",
-    "minutes": 36,
-    "points": 15,
-    "fga": 20,
-    "fg3a": 0
-  },
-  {
-    "game_id": "0022300586",
-    "date": "Jan 19, 2024",
-    "matchup": "DEN @ BOS",
-    "minutes": 38,
-    "points": 14,
-    "fga": 22,
-    "fg3a": 4
-  },
-  {
-    "game_id": "0022300566",
-    "date": "Jan 16, 2024",
-    "matchup": "DEN @ PHI",
-    "minutes": 38,
-    "points": 11,
-    "fga": 20,
-    "fg3a": 2
-  },
-  {
-    "game_id": "0022300550",
-    "date": "Jan 14, 2024",
-    "matchup": "DEN vs. IND",
-    "minutes": 33,
-    "points": 12,
-    "fga": 13,
-    "fg3a": 0
-  },
-  {
-    "game_id": "0022300539",
-    "date": "Jan 12, 2024",
-    "matchup": "DEN vs. NOP",
-    "minutes": 32,
-    "points": 11,
-    "fga": 17,
-    "fg3a": 2
-  },
-  {
-    "game_id": "0022300524",
-    "date": "Jan 10, 2024",
-    "matchup": "DEN @ UTA",
-    "minutes": 30,
-    "points": 8,
-    "fga": 9,
-    "fg3a": 1
-  },
-  {
-    "game_id": "0022300502",
-    "date": "Jan 07, 2024",
-    "matchup": "DEN vs. DET",
-    "minutes": 25,
-    "points": 2,
-    "fga": 3,
-    "fg3a": 0
-  },
-  {
-    "game_id": "0022300488",
-    "date": "Jan 05, 2024",
-    "matchup": "DEN vs. ORL",
-    "minutes": 37,
-    "points": 13,
-    "fga": 19,
-    "fg3a": 1
-  },
-  {
-    "game_id": "0022300478",
-    "date": "Jan 04, 2024",
-    "matchup": "DEN @ GSW",
-    "minutes": 38,
-    "points": 13,
-    "fga": 16,
-    "fg3a": 2
-  },
-  {
-    "game_id": "0022300455",
-    "date": "Jan 01, 2024",
-    "matchup": "DEN vs. CHA",
-    "minutes": 28,
-    "points": 6,
-    "fga": 7,
-    "fg3a": 0
-  },
-  {
-    "game_id": "0022300435",
-    "date": "Dec 29, 2023",
-    "matchup": "DEN vs. OKC",
-    "minutes": 32,
-    "points": 9,
-    "fga": 10,
-    "fg3a": 1
-  },
-  {
-    "game_id": "0022300425",
-    "date": "Dec 28, 2023",
-    "matchup": "DEN vs. MEM",
-    "minutes": 30,
-    "points": 11,
-    "fga": 11,
-    "fg3a": 1
-  },
-  {
-    "game_id": "0022300402",
-    "date": "Dec 25, 2023",
-    "matchup": "DEN vs. GSW",
-    "minutes": 39,
-    "points": 4,
-    "fga": 12,
-    "fg3a": 2
-  },
-  {
-    "game_id": "0022300390",
-    "date": "Dec 23, 2023",
-    "matchup": "DEN @ CHA",
-    "minutes": 36,
-    "points": 8,
-    "fga": 14,
-    "fg3a": 2
-  },
-  {
-    "game_id": "0022300383",
-    "date": "Dec 22, 2023",
-    "matchup": "DEN @ BKN",
-    "minutes": 34,
-    "points": 12,
-    "fga": 17,
-    "fg3a": 2
-  },
-  {
-    "game_id": "0022300369",
-    "date": "Dec 20, 2023",
-    "matchup": "DEN @ TOR",
-    "minutes": 38,
-    "points": 13,
-    "fga": 23,
-    "fg3a": 5
-  },
-  {
-    "game_id": "0022300356",
-    "date": "Dec 18, 2023",
-    "matchup": "DEN vs. DAL",
-    "minutes": 28,
-    "points": 3,
-    "fga": 8,
-    "fg3a": 1
-  },
-  {
-    "game_id": "0022300340",
-    "date": "Dec 16, 2023",
-    "matchup": "DEN vs. OKC",
-    "minutes": 37,
-    "points": 8,
-    "fga": 15,
-    "fg3a": 2
-  },
-  {
-    "game_id": "0022300322",
-    "date": "Dec 14, 2023",
-    "matchup": "DEN vs. BKN",
-    "minutes": 30,
-    "points": 8,
-    "fga": 12,
-    "fg3a": 2
-  },
-  {
-    "game_id": "0022300307",
-    "date": "Dec 12, 2023",
-    "matchup": "DEN @ CHI",
-    "minutes": 16,
-    "points": 2,
-    "fga": 5,
-    "fg3a": 0
-  },
-  {
-    "game_id": "0022300296",
-    "date": "Dec 11, 2023",
-    "matchup": "DEN @ ATL",
-    "minutes": 36,
-    "points": 9,
-    "fga": 13,
-    "fg3a": 1
-  },
-  {
-    "game_id": "0022301224",
-    "date": "Dec 08, 2023",
-    "matchup": "DEN vs. HOU",
-    "minutes": 34,
-    "points": 9,
-    "fga": 26,
-    "fg3a": 2
-  },
-  {
-    "game_id": "0022301215",
-    "date": "Dec 06, 2023",
-    "matchup": "DEN @ LAC",
-    "minutes": 37,
-    "points": 9,
-    "fga": 32,
-    "fg3a": 7
-  },
-  {
-    "game_id": "0022300290",
-    "date": "Dec 02, 2023",
-    "matchup": "DEN @ SAC",
-    "minutes": 38,
-    "points": 13,
-    "fga": 23,
-    "fg3a": 4
-  },
-  {
-    "game_id": "0022300279",
-    "date": "Dec 01, 2023",
-    "matchup": "DEN @ PHX",
-    "minutes": 35,
-    "points": 9,
-    "fga": 18,
-    "fg3a": 3
-  },
-  {
-    "game_id": "0022300263",
-    "date": "Nov 29, 2023",
-    "matchup": "DEN vs. HOU",
-    "minutes": 33,
-    "points": 12,
-    "fga": 19,
-    "fg3a": 2
-  },
-  {
-    "game_id": "0022300252",
-    "date": "Nov 26, 2023",
-    "matchup": "DEN vs. SAS",
-    "minutes": 34,
-    "points": 17,
-    "fga": 29,
-    "fg3a": 0
-  },
-  {
-    "game_id": "0022300048",
-    "date": "Nov 24, 2023",
-    "matchup": "DEN @ HOU",
-    "minutes": 42,
-    "points": 14,
-    "fga": 31,
-    "fg3a": 8
-  },
-  {
-    "game_id": "0022300226",
-    "date": "Nov 22, 2023",
-    "matchup": "DEN @ ORL",
-    "minutes": 36,
-    "points": 12,
-    "fga": 18,
-    "fg3a": 2
-  },
-  {
-    "game_id": "0022300218",
-    "date": "Nov 20, 2023",
-    "matchup": "DEN @ DET",
-    "minutes": 15,
-    "points": 4,
-    "fga": 8,
-    "fg3a": 4
-  },
-  {
-    "game_id": "0022300210",
-    "date": "Nov 19, 2023",
-    "matchup": "DEN @ CLE",
-    "minutes": 28,
-    "points": 8,
-    "fga": 13,
-    "fg3a": 0
-  },
-  {
-    "game_id": "0022300034",
-    "date": "Nov 17, 2023",
-    "matchup": "DEN @ NOP",
-    "minutes": 36,
-    "points": 10,
-    "fga": 20,
-    "fg3a": 8
-  },
-  {
-    "game_id": "0022300024",
-    "date": "Nov 14, 2023",
-    "matchup": "DEN vs. LAC",
-    "minutes": 36,
-    "points": 8,
-    "fga": 23,
-    "fg3a": 7
-  },
-  {
-    "game_id": "0022300182",
-    "date": "Nov 12, 2023",
-    "matchup": "DEN @ HOU",
-    "minutes": 38,
-    "points": 13,
-    "fga": 26,
-    "fg3a": 6
-  },
-  {
-    "game_id": "0022300169",
-    "date": "Nov 08, 2023",
-    "matchup": "DEN vs. GSW",
-    "minutes": 37,
-    "points": 14,
-    "fga": 25,
-    "fg3a": 8
-  },
-  {
-    "game_id": "0022300156",
-    "date": "Nov 06, 2023",
-    "matchup": "DEN vs. NOP",
-    "minutes": 36,
-    "points": 15,
-    "fga": 24,
-    "fg3a": 6
-  },
-  {
-    "game_id": "0022300139",
-    "date": "Nov 04, 2023",
-    "matchup": "DEN vs. CHI",
-    "minutes": 33,
-    "points": 9,
-    "fga": 16,
-    "fg3a": 3
-  },
-  {
-    "game_id": "0022300006",
-    "date": "Nov 03, 2023",
-    "matchup": "DEN vs. DAL",
-    "minutes": 36,
-    "points": 14,
-    "fga": 16,
-    "fg3a": 2
-  },
-  {
-    "game_id": "0022300123",
-    "date": "Nov 01, 2023",
-    "matchup": "DEN @ MIN",
-    "minutes": 30,
-    "points": 11,
-    "fga": 23,
-    "fg3a": 6
-  },
-  {
-    "game_id": "0022300110",
-    "date": "Oct 30, 2023",
-    "matchup": "DEN vs. UTA",
-    "minutes": 35,
-    "points": 12,
-    "fga": 16,
-    "fg3a": 3
-  },
-  {
-    "game_id": "0022300095",
-    "date": "Oct 29, 2023",
-    "matchup": "DEN @ OKC",
-    "minutes": 30,
-    "points": 12,
-    "fga": 16,
-    "fg3a": 2
-  },
-  {
-    "game_id": "0022300078",
-    "date": "Oct 27, 2023",
-    "matchup": "DEN @ MEM",
-    "minutes": 35,
-    "points": 8,
-    "fga": 14,
-    "fg3a": 4
-  },
-  {
-    "game_id": "0022300061",
-    "date": "Oct 24, 2023",
-    "matchup": "DEN vs. LAL",
-    "minutes": 36,
-    "points": 12,
-    "fga": 22,
-    "fg3a": 5
-  }
-]
+{
+  "player_id": 203999,
+  "player_name": "Nikola Joki\u0107",
+  "games": [
+    {
+      "game_id": "0022500026",
+      "date": "Oct 31, 2025",
+      "season": "2025-26",
+      "matchup": "DEN @ POR",
+      "minutes": 37,
+      "points": 21,
+      "fga": 10,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022500134",
+      "date": "Oct 29, 2025",
+      "season": "2025-26",
+      "matchup": "DEN vs. NOP",
+      "minutes": 28,
+      "points": 21,
+      "fga": 15,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400113",
+      "date": "Oct 29, 2024",
+      "season": "2024-25",
+      "matchup": "DEN @ BKN",
+      "minutes": 41,
+      "points": 29,
+      "fga": 16,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400107",
+      "date": "Oct 28, 2024",
+      "season": "2024-25",
+      "matchup": "DEN @ TOR",
+      "minutes": 44,
+      "points": 40,
+      "fga": 27,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022500008",
+      "date": "Oct 27, 2025",
+      "season": "2025-26",
+      "matchup": "DEN @ MIN",
+      "minutes": 36,
+      "points": 25,
+      "fga": 10,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400087",
+      "date": "Oct 26, 2024",
+      "season": "2024-25",
+      "matchup": "DEN vs. LAC",
+      "minutes": 37,
+      "points": 41,
+      "fga": 26,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022500104",
+      "date": "Oct 25, 2025",
+      "season": "2025-26",
+      "matchup": "DEN vs. PHX",
+      "minutes": 32,
+      "points": 14,
+      "fga": 8,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400075",
+      "date": "Oct 24, 2024",
+      "season": "2024-25",
+      "matchup": "DEN vs. OKC",
+      "minutes": 35,
+      "points": 16,
+      "fga": 13,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022500006",
+      "date": "Oct 23, 2025",
+      "season": "2025-26",
+      "matchup": "DEN @ GSW",
+      "minutes": 41,
+      "points": 21,
+      "fga": 23,
+      "fg3a": 13
+    },
+    {
+      "game_id": "0022500299",
+      "date": "Nov 29, 2025",
+      "season": "2025-26",
+      "matchup": "DEN @ PHX",
+      "minutes": 31,
+      "points": 26,
+      "fga": 7,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022500076",
+      "date": "Nov 28, 2025",
+      "season": "2025-26",
+      "matchup": "DEN vs. SAS",
+      "minutes": 36,
+      "points": 21,
+      "fga": 10,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022400298",
+      "date": "Nov 27, 2024",
+      "season": "2024-25",
+      "matchup": "DEN @ UTA",
+      "minutes": 34,
+      "points": 30,
+      "fga": 19,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400283",
+      "date": "Nov 25, 2024",
+      "season": "2024-25",
+      "matchup": "DEN vs. NYK",
+      "minutes": 32,
+      "points": 22,
+      "fga": 20,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022500287",
+      "date": "Nov 24, 2025",
+      "season": "2025-26",
+      "matchup": "DEN @ MEM",
+      "minutes": 34,
+      "points": 17,
+      "fga": 9,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400270",
+      "date": "Nov 23, 2024",
+      "season": "2024-25",
+      "matchup": "DEN @ LAL",
+      "minutes": 37,
+      "points": 34,
+      "fga": 20,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022500274",
+      "date": "Nov 22, 2025",
+      "season": "2025-26",
+      "matchup": "DEN vs. SAC",
+      "minutes": 37,
+      "points": 44,
+      "fga": 28,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400033",
+      "date": "Nov 22, 2024",
+      "season": "2024-25",
+      "matchup": "DEN vs. DAL",
+      "minutes": 39,
+      "points": 33,
+      "fga": 22,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022500054",
+      "date": "Nov 21, 2025",
+      "season": "2025-26",
+      "matchup": "DEN @ HOU",
+      "minutes": 39,
+      "points": 34,
+      "fga": 20,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022500260",
+      "date": "Nov 19, 2025",
+      "season": "2025-26",
+      "matchup": "DEN @ NOP",
+      "minutes": 34,
+      "points": 28,
+      "fga": 18,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022500248",
+      "date": "Nov 17, 2025",
+      "season": "2025-26",
+      "matchup": "DEN vs. CHI",
+      "minutes": 39,
+      "points": 36,
+      "fga": 27,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022500232",
+      "date": "Nov 15, 2025",
+      "season": "2025-26",
+      "matchup": "DEN @ MIN",
+      "minutes": 37,
+      "points": 27,
+      "fga": 15,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022500224",
+      "date": "Nov 12, 2025",
+      "season": "2025-26",
+      "matchup": "DEN @ LAC",
+      "minutes": 34,
+      "points": 55,
+      "fga": 23,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022500212",
+      "date": "Nov 11, 2025",
+      "season": "2025-26",
+      "matchup": "DEN @ SAC",
+      "minutes": 33,
+      "points": 35,
+      "fga": 19,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400208",
+      "date": "Nov 10, 2024",
+      "season": "2024-25",
+      "matchup": "DEN vs. DAL",
+      "minutes": 38,
+      "points": 37,
+      "fga": 21,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022500189",
+      "date": "Nov 08, 2025",
+      "season": "2025-26",
+      "matchup": "DEN vs. IND",
+      "minutes": 32,
+      "points": 32,
+      "fga": 14,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022400194",
+      "date": "Nov 08, 2024",
+      "season": "2024-25",
+      "matchup": "DEN vs. MIA",
+      "minutes": 40,
+      "points": 30,
+      "fga": 13,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022500037",
+      "date": "Nov 07, 2025",
+      "season": "2025-26",
+      "matchup": "DEN vs. GSW",
+      "minutes": 28,
+      "points": 26,
+      "fga": 15,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400177",
+      "date": "Nov 06, 2024",
+      "season": "2024-25",
+      "matchup": "DEN vs. OKC",
+      "minutes": 39,
+      "points": 23,
+      "fga": 20,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022500178",
+      "date": "Nov 05, 2025",
+      "season": "2025-26",
+      "matchup": "DEN vs. MIA",
+      "minutes": 37,
+      "points": 33,
+      "fga": 18,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022400166",
+      "date": "Nov 04, 2024",
+      "season": "2024-25",
+      "matchup": "DEN vs. TOR",
+      "minutes": 38,
+      "points": 28,
+      "fga": 22,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022500162",
+      "date": "Nov 03, 2025",
+      "season": "2025-26",
+      "matchup": "DEN vs. SAC",
+      "minutes": 36,
+      "points": 34,
+      "fga": 22,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400148",
+      "date": "Nov 02, 2024",
+      "season": "2024-25",
+      "matchup": "DEN vs. UTA",
+      "minutes": 30,
+      "points": 27,
+      "fga": 18,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400139",
+      "date": "Nov 01, 2024",
+      "season": "2024-25",
+      "matchup": "DEN @ MIN",
+      "minutes": 40,
+      "points": 26,
+      "fga": 16,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022401073",
+      "date": "Mar 28, 2025",
+      "season": "2024-25",
+      "matchup": "DEN vs. UTA",
+      "minutes": 32,
+      "points": 27,
+      "fga": 18,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022401057",
+      "date": "Mar 26, 2025",
+      "season": "2024-25",
+      "matchup": "DEN vs. MIL",
+      "minutes": 38,
+      "points": 39,
+      "fga": 25,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400975",
+      "date": "Mar 15, 2025",
+      "season": "2024-25",
+      "matchup": "DEN vs. WAS",
+      "minutes": 39,
+      "points": 40,
+      "fga": 30,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400965",
+      "date": "Mar 14, 2025",
+      "season": "2024-25",
+      "matchup": "DEN vs. LAL",
+      "minutes": 38,
+      "points": 28,
+      "fga": 16,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400952",
+      "date": "Mar 12, 2025",
+      "season": "2024-25",
+      "matchup": "DEN vs. MIN",
+      "minutes": 38,
+      "points": 34,
+      "fga": 23,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400936",
+      "date": "Mar 10, 2025",
+      "season": "2024-25",
+      "matchup": "DEN @ OKC",
+      "minutes": 40,
+      "points": 35,
+      "fga": 20,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400920",
+      "date": "Mar 09, 2025",
+      "season": "2024-25",
+      "matchup": "DEN @ OKC",
+      "minutes": 41,
+      "points": 24,
+      "fga": 23,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400909",
+      "date": "Mar 07, 2025",
+      "season": "2024-25",
+      "matchup": "DEN vs. PHX",
+      "minutes": 45,
+      "points": 31,
+      "fga": 22,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400896",
+      "date": "Mar 05, 2025",
+      "season": "2024-25",
+      "matchup": "DEN vs. SAC",
+      "minutes": 38,
+      "points": 22,
+      "fga": 18,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400866",
+      "date": "Mar 02, 2025",
+      "season": "2024-25",
+      "matchup": "DEN @ BOS",
+      "minutes": 39,
+      "points": 20,
+      "fga": 15,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400681",
+      "date": "Jan 31, 2025",
+      "season": "2024-25",
+      "matchup": "DEN @ PHI",
+      "minutes": 37,
+      "points": 28,
+      "fga": 16,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400668",
+      "date": "Jan 29, 2025",
+      "season": "2024-25",
+      "matchup": "DEN @ NYK",
+      "minutes": 33,
+      "points": 17,
+      "fga": 15,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400655",
+      "date": "Jan 27, 2025",
+      "season": "2024-25",
+      "matchup": "DEN @ CHI",
+      "minutes": 40,
+      "points": 33,
+      "fga": 21,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400634",
+      "date": "Jan 25, 2025",
+      "season": "2024-25",
+      "matchup": "DEN @ MIN",
+      "minutes": 32,
+      "points": 20,
+      "fga": 13,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400626",
+      "date": "Jan 23, 2025",
+      "season": "2024-25",
+      "matchup": "DEN vs. SAC",
+      "minutes": 37,
+      "points": 35,
+      "fga": 19,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400609",
+      "date": "Jan 21, 2025",
+      "season": "2024-25",
+      "matchup": "DEN vs. PHI",
+      "minutes": 30,
+      "points": 27,
+      "fga": 15,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400593",
+      "date": "Jan 19, 2025",
+      "season": "2024-25",
+      "matchup": "DEN @ ORL",
+      "minutes": 30,
+      "points": 20,
+      "fga": 9,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400579",
+      "date": "Jan 17, 2025",
+      "season": "2024-25",
+      "matchup": "DEN @ MIA",
+      "minutes": 31,
+      "points": 24,
+      "fga": 12,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400559",
+      "date": "Jan 14, 2025",
+      "season": "2024-25",
+      "matchup": "DEN @ DAL",
+      "minutes": 29,
+      "points": 10,
+      "fga": 7,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400540",
+      "date": "Jan 12, 2025",
+      "season": "2024-25",
+      "matchup": "DEN @ DAL",
+      "minutes": 39,
+      "points": 19,
+      "fga": 13,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400531",
+      "date": "Jan 10, 2025",
+      "season": "2024-25",
+      "matchup": "DEN vs. BKN",
+      "minutes": 38,
+      "points": 35,
+      "fga": 21,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022400484",
+      "date": "Jan 04, 2025",
+      "season": "2024-25",
+      "matchup": "DEN @ SAS",
+      "minutes": 43,
+      "points": 46,
+      "fga": 35,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400475",
+      "date": "Jan 03, 2025",
+      "season": "2024-25",
+      "matchup": "DEN vs. SAS",
+      "minutes": 37,
+      "points": 41,
+      "fga": 36,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400461",
+      "date": "Jan 01, 2025",
+      "season": "2024-25",
+      "matchup": "DEN vs. ATL",
+      "minutes": 30,
+      "points": 23,
+      "fga": 16,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022400850",
+      "date": "Feb 28, 2025",
+      "season": "2024-25",
+      "matchup": "DEN @ DET",
+      "minutes": 34,
+      "points": 23,
+      "fga": 12,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400846",
+      "date": "Feb 27, 2025",
+      "season": "2024-25",
+      "matchup": "DEN @ MIL",
+      "minutes": 38,
+      "points": 32,
+      "fga": 16,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400822",
+      "date": "Feb 24, 2025",
+      "season": "2024-25",
+      "matchup": "DEN @ IND",
+      "minutes": 39,
+      "points": 18,
+      "fga": 14,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022400808",
+      "date": "Feb 22, 2025",
+      "season": "2024-25",
+      "matchup": "DEN vs. LAL",
+      "minutes": 35,
+      "points": 12,
+      "fga": 7,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022400794",
+      "date": "Feb 20, 2025",
+      "season": "2024-25",
+      "matchup": "DEN vs. CHA",
+      "minutes": 37,
+      "points": 29,
+      "fga": 22,
+      "fg3a": 14
+    },
+    {
+      "game_id": "0022400780",
+      "date": "Feb 12, 2025",
+      "season": "2024-25",
+      "matchup": "DEN vs. POR",
+      "minutes": 36,
+      "points": 26,
+      "fga": 20,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400763",
+      "date": "Feb 10, 2025",
+      "season": "2024-25",
+      "matchup": "DEN vs. POR",
+      "minutes": 31,
+      "points": 40,
+      "fga": 22,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400749",
+      "date": "Feb 08, 2025",
+      "season": "2024-25",
+      "matchup": "DEN @ PHX",
+      "minutes": 29,
+      "points": 26,
+      "fga": 13,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400730",
+      "date": "Feb 06, 2025",
+      "season": "2024-25",
+      "matchup": "DEN vs. ORL",
+      "minutes": 31,
+      "points": 28,
+      "fga": 16,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400726",
+      "date": "Feb 05, 2025",
+      "season": "2024-25",
+      "matchup": "DEN vs. NOP",
+      "minutes": 36,
+      "points": 38,
+      "fga": 28,
+      "fg3a": 13
+    },
+    {
+      "game_id": "0022400706",
+      "date": "Feb 03, 2025",
+      "season": "2024-25",
+      "matchup": "DEN vs. NOP",
+      "minutes": 36,
+      "points": 27,
+      "fga": 13,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400688",
+      "date": "Feb 01, 2025",
+      "season": "2024-25",
+      "matchup": "DEN @ CHA",
+      "minutes": 37,
+      "points": 28,
+      "fga": 17,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400445",
+      "date": "Dec 30, 2024",
+      "season": "2024-25",
+      "matchup": "DEN @ UTA",
+      "minutes": 38,
+      "points": 36,
+      "fga": 33,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022500450",
+      "date": "Dec 29, 2025",
+      "season": "2025-26",
+      "matchup": "DEN @ MIA",
+      "minutes": 19,
+      "points": 21,
+      "fga": 14,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400432",
+      "date": "Dec 28, 2024",
+      "season": "2024-25",
+      "matchup": "DEN vs. DET",
+      "minutes": 37,
+      "points": 37,
+      "fga": 17,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022500433",
+      "date": "Dec 27, 2025",
+      "season": "2025-26",
+      "matchup": "DEN @ ORL",
+      "minutes": 38,
+      "points": 34,
+      "fga": 22,
+      "fg3a": 0
+    },
+    {
+      "game_id": "0022400424",
+      "date": "Dec 27, 2024",
+      "season": "2024-25",
+      "matchup": "DEN vs. CLE",
+      "minutes": 36,
+      "points": 27,
+      "fga": 19,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022500013",
+      "date": "Dec 25, 2025",
+      "season": "2025-26",
+      "matchup": "DEN vs. MIN",
+      "minutes": 43,
+      "points": 56,
+      "fga": 21,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400409",
+      "date": "Dec 25, 2024",
+      "season": "2024-25",
+      "matchup": "DEN @ PHX",
+      "minutes": 38,
+      "points": 25,
+      "fga": 19,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022500415",
+      "date": "Dec 23, 2025",
+      "season": "2025-26",
+      "matchup": "DEN @ DAL",
+      "minutes": 36,
+      "points": 29,
+      "fga": 22,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400402",
+      "date": "Dec 23, 2024",
+      "season": "2024-25",
+      "matchup": "DEN vs. PHX",
+      "minutes": 30,
+      "points": 32,
+      "fga": 17,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022500405",
+      "date": "Dec 22, 2025",
+      "season": "2025-26",
+      "matchup": "DEN vs. UTA",
+      "minutes": 29,
+      "points": 14,
+      "fga": 7,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022400390",
+      "date": "Dec 22, 2024",
+      "season": "2024-25",
+      "matchup": "DEN @ NOP",
+      "minutes": 43,
+      "points": 27,
+      "fga": 20,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022500386",
+      "date": "Dec 20, 2025",
+      "season": "2025-26",
+      "matchup": "DEN vs. HOU",
+      "minutes": 29,
+      "points": 25,
+      "fga": 20,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400371",
+      "date": "Dec 19, 2024",
+      "season": "2024-25",
+      "matchup": "DEN @ POR",
+      "minutes": 37,
+      "points": 34,
+      "fga": 18,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022500377",
+      "date": "Dec 18, 2025",
+      "season": "2025-26",
+      "matchup": "DEN vs. ORL",
+      "minutes": 38,
+      "points": 23,
+      "fga": 17,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022401225",
+      "date": "Dec 16, 2024",
+      "season": "2024-25",
+      "matchup": "DEN @ SAC",
+      "minutes": 38,
+      "points": 20,
+      "fga": 19,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022501225",
+      "date": "Dec 15, 2025",
+      "season": "2025-26",
+      "matchup": "DEN vs. HOU",
+      "minutes": 42,
+      "points": 39,
+      "fga": 27,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022401213",
+      "date": "Dec 13, 2024",
+      "season": "2024-25",
+      "matchup": "DEN vs. LAC",
+      "minutes": 30,
+      "points": 16,
+      "fga": 9,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022501208",
+      "date": "Dec 11, 2025",
+      "season": "2025-26",
+      "matchup": "DEN @ SAC",
+      "minutes": 29,
+      "points": 36,
+      "fga": 16,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400350",
+      "date": "Dec 08, 2024",
+      "season": "2024-25",
+      "matchup": "DEN @ ATL",
+      "minutes": 35,
+      "points": 48,
+      "fga": 29,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022500359",
+      "date": "Dec 07, 2025",
+      "season": "2025-26",
+      "matchup": "DEN @ CHA",
+      "minutes": 35,
+      "points": 28,
+      "fga": 16,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400341",
+      "date": "Dec 07, 2024",
+      "season": "2024-25",
+      "matchup": "DEN @ WAS",
+      "minutes": 39,
+      "points": 56,
+      "fga": 39,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022500340",
+      "date": "Dec 05, 2025",
+      "season": "2025-26",
+      "matchup": "DEN @ ATL",
+      "minutes": 36,
+      "points": 40,
+      "fga": 26,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400325",
+      "date": "Dec 05, 2024",
+      "season": "2024-25",
+      "matchup": "DEN @ CLE",
+      "minutes": 39,
+      "points": 27,
+      "fga": 26,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022500325",
+      "date": "Dec 03, 2025",
+      "season": "2025-26",
+      "matchup": "DEN @ IND",
+      "minutes": 35,
+      "points": 24,
+      "fga": 17,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400058",
+      "date": "Dec 03, 2024",
+      "season": "2024-25",
+      "matchup": "DEN vs. GSW",
+      "minutes": 40,
+      "points": 38,
+      "fga": 24,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022500315",
+      "date": "Dec 01, 2025",
+      "season": "2025-26",
+      "matchup": "DEN vs. DAL",
+      "minutes": 37,
+      "points": 29,
+      "fga": 24,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400314",
+      "date": "Dec 01, 2024",
+      "season": "2024-25",
+      "matchup": "DEN @ LAC",
+      "minutes": 39,
+      "points": 28,
+      "fga": 24,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022401193",
+      "date": "Apr 13, 2025",
+      "season": "2024-25",
+      "matchup": "DEN @ HOU",
+      "minutes": 31,
+      "points": 18,
+      "fga": 10,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022401180",
+      "date": "Apr 11, 2025",
+      "season": "2024-25",
+      "matchup": "DEN vs. MEM",
+      "minutes": 41,
+      "points": 26,
+      "fga": 19,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022401165",
+      "date": "Apr 09, 2025",
+      "season": "2024-25",
+      "matchup": "DEN @ SAC",
+      "minutes": 38,
+      "points": 20,
+      "fga": 12,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022401142",
+      "date": "Apr 06, 2025",
+      "season": "2024-25",
+      "matchup": "DEN vs. IND",
+      "minutes": 39,
+      "points": 41,
+      "fga": 33,
+      "fg3a": 11
+    },
+    {
+      "game_id": "0022401125",
+      "date": "Apr 04, 2025",
+      "season": "2024-25",
+      "matchup": "DEN @ GSW",
+      "minutes": 37,
+      "points": 33,
+      "fga": 17,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022401102",
+      "date": "Apr 01, 2025",
+      "season": "2024-25",
+      "matchup": "DEN vs. MIN",
+      "minutes": 53,
+      "points": 61,
+      "fga": 29,
+      "fg3a": 11
+    }
+  ]
+}

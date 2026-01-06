@@ -1,0 +1,1126 @@
+{
+  "player_id": 1628983,
+  "player_name": "Shai Gilgeous-Alexander",
+  "games": [
+    {
+      "game_id": "0022500140",
+      "date": "Oct 30, 2025",
+      "season": "2025-26",
+      "matchup": "OKC vs. WAS",
+      "minutes": 29,
+      "points": 31,
+      "fga": 20,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400125",
+      "date": "Oct 30, 2024",
+      "season": "2024-25",
+      "matchup": "OKC vs. SAS",
+      "minutes": 28,
+      "points": 18,
+      "fga": 20,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022500126",
+      "date": "Oct 28, 2025",
+      "season": "2025-26",
+      "matchup": "OKC vs. SAC",
+      "minutes": 36,
+      "points": 31,
+      "fga": 26,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022500119",
+      "date": "Oct 27, 2025",
+      "season": "2025-26",
+      "matchup": "OKC @ DAL",
+      "minutes": 35,
+      "points": 23,
+      "fga": 22,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400100",
+      "date": "Oct 27, 2024",
+      "season": "2024-25",
+      "matchup": "OKC vs. ATL",
+      "minutes": 36,
+      "points": 35,
+      "fga": 24,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400091",
+      "date": "Oct 26, 2024",
+      "season": "2024-25",
+      "matchup": "OKC @ CHI",
+      "minutes": 29,
+      "points": 23,
+      "fga": 21,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022500101",
+      "date": "Oct 25, 2025",
+      "season": "2025-26",
+      "matchup": "OKC @ ATL",
+      "minutes": 29,
+      "points": 30,
+      "fga": 17,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400075",
+      "date": "Oct 24, 2024",
+      "season": "2024-25",
+      "matchup": "OKC @ DEN",
+      "minutes": 36,
+      "points": 28,
+      "fga": 24,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022500005",
+      "date": "Oct 23, 2025",
+      "season": "2025-26",
+      "matchup": "OKC @ IND",
+      "minutes": 45,
+      "points": 55,
+      "fga": 31,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022500001",
+      "date": "Oct 21, 2025",
+      "season": "2025-26",
+      "matchup": "OKC vs. HOU",
+      "minutes": 47,
+      "points": 35,
+      "fga": 26,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022500305",
+      "date": "Nov 30, 2025",
+      "season": "2025-26",
+      "matchup": "OKC @ POR",
+      "minutes": 36,
+      "points": 26,
+      "fga": 15,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400048",
+      "date": "Nov 29, 2024",
+      "season": "2024-25",
+      "matchup": "OKC @ LAL",
+      "minutes": 37,
+      "points": 36,
+      "fga": 28,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022500075",
+      "date": "Nov 28, 2025",
+      "season": "2025-26",
+      "matchup": "OKC vs. PHX",
+      "minutes": 36,
+      "points": 37,
+      "fga": 20,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022400299",
+      "date": "Nov 27, 2024",
+      "season": "2024-25",
+      "matchup": "OKC @ GSW",
+      "minutes": 39,
+      "points": 35,
+      "fga": 28,
+      "fg3a": 12
+    },
+    {
+      "game_id": "0022500064",
+      "date": "Nov 26, 2025",
+      "season": "2025-26",
+      "matchup": "OKC vs. MIN",
+      "minutes": 37,
+      "points": 40,
+      "fga": 19,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400285",
+      "date": "Nov 25, 2024",
+      "season": "2024-25",
+      "matchup": "OKC @ SAC",
+      "minutes": 35,
+      "points": 37,
+      "fga": 20,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022500280",
+      "date": "Nov 23, 2025",
+      "season": "2025-26",
+      "matchup": "OKC vs. POR",
+      "minutes": 30,
+      "points": 37,
+      "fga": 18,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022500055",
+      "date": "Nov 21, 2025",
+      "season": "2025-26",
+      "matchup": "OKC @ UTA",
+      "minutes": 30,
+      "points": 31,
+      "fga": 14,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400256",
+      "date": "Nov 20, 2024",
+      "season": "2024-25",
+      "matchup": "OKC vs. POR",
+      "minutes": 39,
+      "points": 28,
+      "fga": 19,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022500261",
+      "date": "Nov 19, 2025",
+      "season": "2025-26",
+      "matchup": "OKC vs. SAC",
+      "minutes": 36,
+      "points": 33,
+      "fga": 24,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400025",
+      "date": "Nov 19, 2024",
+      "season": "2024-25",
+      "matchup": "OKC @ SAS",
+      "minutes": 37,
+      "points": 32,
+      "fga": 20,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022500247",
+      "date": "Nov 17, 2025",
+      "season": "2025-26",
+      "matchup": "OKC @ NOP",
+      "minutes": 29,
+      "points": 23,
+      "fga": 9,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022400242",
+      "date": "Nov 17, 2024",
+      "season": "2024-25",
+      "matchup": "OKC vs. DAL",
+      "minutes": 38,
+      "points": 36,
+      "fga": 19,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022500229",
+      "date": "Nov 15, 2025",
+      "season": "2025-26",
+      "matchup": "OKC @ CHA",
+      "minutes": 29,
+      "points": 33,
+      "fga": 19,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400018",
+      "date": "Nov 15, 2024",
+      "season": "2024-25",
+      "matchup": "OKC vs. PHX",
+      "minutes": 33,
+      "points": 28,
+      "fga": 25,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400221",
+      "date": "Nov 13, 2024",
+      "season": "2024-25",
+      "matchup": "OKC vs. NOP",
+      "minutes": 33,
+      "points": 29,
+      "fga": 25,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022500222",
+      "date": "Nov 12, 2025",
+      "season": "2025-26",
+      "matchup": "OKC vs. LAL",
+      "minutes": 29,
+      "points": 30,
+      "fga": 18,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022500210",
+      "date": "Nov 11, 2025",
+      "season": "2025-26",
+      "matchup": "OKC vs. GSW",
+      "minutes": 28,
+      "points": 28,
+      "fga": 19,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400215",
+      "date": "Nov 11, 2024",
+      "season": "2024-25",
+      "matchup": "OKC vs. LAC",
+      "minutes": 39,
+      "points": 45,
+      "fga": 21,
+      "fg3a": 8
+    },
+    {
+      "game_id": "0022400207",
+      "date": "Nov 10, 2024",
+      "season": "2024-25",
+      "matchup": "OKC vs. GSW",
+      "minutes": 34,
+      "points": 24,
+      "fga": 17,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022500194",
+      "date": "Nov 09, 2025",
+      "season": "2025-26",
+      "matchup": "OKC @ MEM",
+      "minutes": 35,
+      "points": 35,
+      "fga": 22,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400192",
+      "date": "Nov 08, 2024",
+      "season": "2024-25",
+      "matchup": "OKC vs. HOU",
+      "minutes": 29,
+      "points": 29,
+      "fga": 16,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022500038",
+      "date": "Nov 07, 2025",
+      "season": "2025-26",
+      "matchup": "OKC @ SAC",
+      "minutes": 29,
+      "points": 30,
+      "fga": 20,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400177",
+      "date": "Nov 06, 2024",
+      "season": "2024-25",
+      "matchup": "OKC @ DEN",
+      "minutes": 39,
+      "points": 28,
+      "fga": 19,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022500180",
+      "date": "Nov 05, 2025",
+      "season": "2025-26",
+      "matchup": "OKC @ POR",
+      "minutes": 38,
+      "points": 35,
+      "fga": 26,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022500170",
+      "date": "Nov 04, 2025",
+      "season": "2025-26",
+      "matchup": "OKC @ LAC",
+      "minutes": 29,
+      "points": 30,
+      "fga": 14,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022400163",
+      "date": "Nov 04, 2024",
+      "season": "2024-25",
+      "matchup": "OKC vs. ORL",
+      "minutes": 35,
+      "points": 21,
+      "fga": 16,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022500148",
+      "date": "Nov 02, 2025",
+      "season": "2025-26",
+      "matchup": "OKC vs. NOP",
+      "minutes": 30,
+      "points": 30,
+      "fga": 14,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022400150",
+      "date": "Nov 02, 2024",
+      "season": "2024-25",
+      "matchup": "OKC @ LAC",
+      "minutes": 31,
+      "points": 25,
+      "fga": 14,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400140",
+      "date": "Nov 01, 2024",
+      "season": "2024-25",
+      "matchup": "OKC @ POR",
+      "minutes": 28,
+      "points": 30,
+      "fga": 18,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022401094",
+      "date": "Mar 31, 2025",
+      "season": "2024-25",
+      "matchup": "OKC vs. CHI",
+      "minutes": 27,
+      "points": 27,
+      "fga": 14,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022401079",
+      "date": "Mar 29, 2025",
+      "season": "2024-25",
+      "matchup": "OKC vs. IND",
+      "minutes": 31,
+      "points": 33,
+      "fga": 23,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022401064",
+      "date": "Mar 27, 2025",
+      "season": "2024-25",
+      "matchup": "OKC vs. MEM",
+      "minutes": 34,
+      "points": 37,
+      "fga": 25,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022401052",
+      "date": "Mar 25, 2025",
+      "season": "2024-25",
+      "matchup": "OKC @ SAC",
+      "minutes": 33,
+      "points": 32,
+      "fga": 23,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022401036",
+      "date": "Mar 23, 2025",
+      "season": "2024-25",
+      "matchup": "OKC @ LAC",
+      "minutes": 37,
+      "points": 26,
+      "fga": 29,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022401017",
+      "date": "Mar 21, 2025",
+      "season": "2024-25",
+      "matchup": "OKC vs. CHA",
+      "minutes": 30,
+      "points": 30,
+      "fga": 18,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400982",
+      "date": "Mar 16, 2025",
+      "season": "2024-25",
+      "matchup": "OKC @ MIL",
+      "minutes": 34,
+      "points": 31,
+      "fga": 27,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022400969",
+      "date": "Mar 15, 2025",
+      "season": "2024-25",
+      "matchup": "OKC @ DET",
+      "minutes": 38,
+      "points": 48,
+      "fga": 26,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400946",
+      "date": "Mar 12, 2025",
+      "season": "2024-25",
+      "matchup": "OKC @ BOS",
+      "minutes": 39,
+      "points": 34,
+      "fga": 20,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400936",
+      "date": "Mar 10, 2025",
+      "season": "2024-25",
+      "matchup": "OKC vs. DEN",
+      "minutes": 36,
+      "points": 25,
+      "fga": 14,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400920",
+      "date": "Mar 09, 2025",
+      "season": "2024-25",
+      "matchup": "OKC vs. DEN",
+      "minutes": 35,
+      "points": 40,
+      "fga": 32,
+      "fg3a": 11
+    },
+    {
+      "game_id": "0022400895",
+      "date": "Mar 05, 2025",
+      "season": "2024-25",
+      "matchup": "OKC @ MEM",
+      "minutes": 35,
+      "points": 41,
+      "fga": 25,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022400879",
+      "date": "Mar 03, 2025",
+      "season": "2024-25",
+      "matchup": "OKC vs. HOU",
+      "minutes": 36,
+      "points": 51,
+      "fga": 30,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400871",
+      "date": "Mar 02, 2025",
+      "season": "2024-25",
+      "matchup": "OKC @ SAS",
+      "minutes": 32,
+      "points": 31,
+      "fga": 19,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022400673",
+      "date": "Jan 29, 2025",
+      "season": "2024-25",
+      "matchup": "OKC @ GSW",
+      "minutes": 39,
+      "points": 52,
+      "fga": 29,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400647",
+      "date": "Jan 26, 2025",
+      "season": "2024-25",
+      "matchup": "OKC @ POR",
+      "minutes": 37,
+      "points": 35,
+      "fga": 25,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400625",
+      "date": "Jan 23, 2025",
+      "season": "2024-25",
+      "matchup": "OKC vs. DAL",
+      "minutes": 40,
+      "points": 31,
+      "fga": 25,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400618",
+      "date": "Jan 22, 2025",
+      "season": "2024-25",
+      "matchup": "OKC vs. UTA",
+      "minutes": 37,
+      "points": 54,
+      "fga": 35,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400595",
+      "date": "Jan 19, 2025",
+      "season": "2024-25",
+      "matchup": "OKC vs. BKN",
+      "minutes": 29,
+      "points": 27,
+      "fga": 14,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400574",
+      "date": "Jan 16, 2025",
+      "season": "2024-25",
+      "matchup": "OKC vs. CLE",
+      "minutes": 29,
+      "points": 40,
+      "fga": 26,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022400555",
+      "date": "Jan 14, 2025",
+      "season": "2024-25",
+      "matchup": "OKC @ PHI",
+      "minutes": 33,
+      "points": 32,
+      "fga": 15,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400545",
+      "date": "Jan 12, 2025",
+      "season": "2024-25",
+      "matchup": "OKC @ WAS",
+      "minutes": 30,
+      "points": 27,
+      "fga": 17,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400529",
+      "date": "Jan 10, 2025",
+      "season": "2024-25",
+      "matchup": "OKC @ NYK",
+      "minutes": 29,
+      "points": 39,
+      "fga": 21,
+      "fg3a": 1
+    },
+    {
+      "game_id": "0022400509",
+      "date": "Jan 08, 2025",
+      "season": "2024-25",
+      "matchup": "OKC @ CLE",
+      "minutes": 38,
+      "points": 31,
+      "fga": 27,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022500506",
+      "date": "Jan 05, 2026",
+      "season": "2025-26",
+      "matchup": "OKC vs. CHA",
+      "minutes": 30,
+      "points": 21,
+      "fga": 21,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400487",
+      "date": "Jan 05, 2025",
+      "season": "2024-25",
+      "matchup": "OKC vs. BOS",
+      "minutes": 39,
+      "points": 33,
+      "fga": 23,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022500499",
+      "date": "Jan 04, 2026",
+      "season": "2025-26",
+      "matchup": "OKC @ PHX",
+      "minutes": 36,
+      "points": 25,
+      "fga": 22,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022400473",
+      "date": "Jan 03, 2025",
+      "season": "2024-25",
+      "matchup": "OKC vs. NYK",
+      "minutes": 37,
+      "points": 33,
+      "fga": 26,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022500484",
+      "date": "Jan 02, 2026",
+      "season": "2025-26",
+      "matchup": "OKC @ GSW",
+      "minutes": 28,
+      "points": 30,
+      "fga": 20,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022400466",
+      "date": "Jan 02, 2025",
+      "season": "2024-25",
+      "matchup": "OKC vs. LAC",
+      "minutes": 30,
+      "points": 29,
+      "fga": 17,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022400851",
+      "date": "Feb 28, 2025",
+      "season": "2024-25",
+      "matchup": "OKC @ ATL",
+      "minutes": 34,
+      "points": 31,
+      "fga": 23,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400840",
+      "date": "Feb 26, 2025",
+      "season": "2024-25",
+      "matchup": "OKC @ BKN",
+      "minutes": 34,
+      "points": 27,
+      "fga": 11,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400826",
+      "date": "Feb 24, 2025",
+      "season": "2024-25",
+      "matchup": "OKC vs. MIN",
+      "minutes": 42,
+      "points": 39,
+      "fga": 20,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022400820",
+      "date": "Feb 23, 2025",
+      "season": "2024-25",
+      "matchup": "OKC @ MIN",
+      "minutes": 38,
+      "points": 37,
+      "fga": 24,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400804",
+      "date": "Feb 21, 2025",
+      "season": "2024-25",
+      "matchup": "OKC @ UTA",
+      "minutes": 32,
+      "points": 21,
+      "fga": 16,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400787",
+      "date": "Feb 13, 2025",
+      "season": "2024-25",
+      "matchup": "OKC @ MIN",
+      "minutes": 34,
+      "points": 24,
+      "fga": 21,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400778",
+      "date": "Feb 12, 2025",
+      "season": "2024-25",
+      "matchup": "OKC vs. MIA",
+      "minutes": 38,
+      "points": 32,
+      "fga": 22,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400761",
+      "date": "Feb 10, 2025",
+      "season": "2024-25",
+      "matchup": "OKC vs. NOP",
+      "minutes": 31,
+      "points": 31,
+      "fga": 20,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400746",
+      "date": "Feb 08, 2025",
+      "season": "2024-25",
+      "matchup": "OKC @ MEM",
+      "minutes": 34,
+      "points": 32,
+      "fga": 26,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022400739",
+      "date": "Feb 07, 2025",
+      "season": "2024-25",
+      "matchup": "OKC vs. TOR",
+      "minutes": 29,
+      "points": 25,
+      "fga": 12,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400724",
+      "date": "Feb 05, 2025",
+      "season": "2024-25",
+      "matchup": "OKC vs. PHX",
+      "minutes": 34,
+      "points": 50,
+      "fga": 29,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400705",
+      "date": "Feb 03, 2025",
+      "season": "2024-25",
+      "matchup": "OKC vs. MIL",
+      "minutes": 22,
+      "points": 34,
+      "fga": 19,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022400691",
+      "date": "Feb 01, 2025",
+      "season": "2024-25",
+      "matchup": "OKC vs. SAC",
+      "minutes": 30,
+      "points": 29,
+      "fga": 20,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022500470",
+      "date": "Dec 31, 2025",
+      "season": "2025-26",
+      "matchup": "OKC vs. POR",
+      "minutes": 29,
+      "points": 30,
+      "fga": 15,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400452",
+      "date": "Dec 31, 2024",
+      "season": "2024-25",
+      "matchup": "OKC vs. MIN",
+      "minutes": 34,
+      "points": 40,
+      "fga": 23,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022500455",
+      "date": "Dec 29, 2025",
+      "season": "2025-26",
+      "matchup": "OKC vs. ATL",
+      "minutes": 36,
+      "points": 39,
+      "fga": 24,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022400440",
+      "date": "Dec 29, 2024",
+      "season": "2024-25",
+      "matchup": "OKC vs. MEM",
+      "minutes": 28,
+      "points": 35,
+      "fga": 19,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022500442",
+      "date": "Dec 28, 2025",
+      "season": "2025-26",
+      "matchup": "OKC vs. PHI",
+      "minutes": 29,
+      "points": 27,
+      "fga": 13,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400428",
+      "date": "Dec 28, 2024",
+      "season": "2024-25",
+      "matchup": "OKC @ CHA",
+      "minutes": 33,
+      "points": 22,
+      "fga": 15,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400410",
+      "date": "Dec 26, 2024",
+      "season": "2024-25",
+      "matchup": "OKC @ IND",
+      "minutes": 38,
+      "points": 45,
+      "fga": 22,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022500010",
+      "date": "Dec 25, 2025",
+      "season": "2025-26",
+      "matchup": "OKC vs. SAS",
+      "minutes": 36,
+      "points": 22,
+      "fga": 19,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022500417",
+      "date": "Dec 23, 2025",
+      "season": "2025-26",
+      "matchup": "OKC @ SAS",
+      "minutes": 35,
+      "points": 33,
+      "fga": 22,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400400",
+      "date": "Dec 23, 2024",
+      "season": "2024-25",
+      "matchup": "OKC vs. WAS",
+      "minutes": 35,
+      "points": 41,
+      "fga": 25,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022500406",
+      "date": "Dec 22, 2025",
+      "season": "2025-26",
+      "matchup": "OKC vs. MEM",
+      "minutes": 36,
+      "points": 31,
+      "fga": 20,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022400375",
+      "date": "Dec 20, 2024",
+      "season": "2024-25",
+      "matchup": "OKC @ MIA",
+      "minutes": 38,
+      "points": 25,
+      "fga": 25,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022500385",
+      "date": "Dec 19, 2025",
+      "season": "2025-26",
+      "matchup": "OKC @ MIN",
+      "minutes": 37,
+      "points": 35,
+      "fga": 26,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022400361",
+      "date": "Dec 19, 2024",
+      "season": "2024-25",
+      "matchup": "OKC @ ORL",
+      "minutes": 36,
+      "points": 35,
+      "fga": 26,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022500369",
+      "date": "Dec 18, 2025",
+      "season": "2025-26",
+      "matchup": "OKC vs. LAC",
+      "minutes": 29,
+      "points": 32,
+      "fga": 24,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022401230",
+      "date": "Dec 14, 2024",
+      "season": "2024-25",
+      "matchup": "OKC vs. HOU",
+      "minutes": 38,
+      "points": 32,
+      "fga": 21,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022501230",
+      "date": "Dec 13, 2025",
+      "season": "2025-26",
+      "matchup": "OKC vs. SAS",
+      "minutes": 37,
+      "points": 29,
+      "fga": 23,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022501203",
+      "date": "Dec 10, 2025",
+      "season": "2025-26",
+      "matchup": "OKC vs. PHX",
+      "minutes": 27,
+      "points": 28,
+      "fga": 15,
+      "fg3a": 4
+    },
+    {
+      "game_id": "0022401203",
+      "date": "Dec 10, 2024",
+      "season": "2024-25",
+      "matchup": "OKC vs. DAL",
+      "minutes": 38,
+      "points": 39,
+      "fga": 23,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022400342",
+      "date": "Dec 07, 2024",
+      "season": "2024-25",
+      "matchup": "OKC @ NOP",
+      "minutes": 34,
+      "points": 31,
+      "fga": 18,
+      "fg3a": 3
+    },
+    {
+      "game_id": "0022500349",
+      "date": "Dec 05, 2025",
+      "season": "2025-26",
+      "matchup": "OKC vs. DAL",
+      "minutes": 29,
+      "points": 33,
+      "fga": 12,
+      "fg3a": 2
+    },
+    {
+      "game_id": "0022400328",
+      "date": "Dec 05, 2024",
+      "season": "2024-25",
+      "matchup": "OKC @ TOR",
+      "minutes": 30,
+      "points": 30,
+      "fga": 22,
+      "fg3a": 10
+    },
+    {
+      "game_id": "0022400055",
+      "date": "Dec 03, 2024",
+      "season": "2024-25",
+      "matchup": "OKC vs. UTA",
+      "minutes": 30,
+      "points": 26,
+      "fga": 19,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022500323",
+      "date": "Dec 02, 2025",
+      "season": "2025-26",
+      "matchup": "OKC @ GSW",
+      "minutes": 36,
+      "points": 38,
+      "fga": 21,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022400310",
+      "date": "Dec 01, 2024",
+      "season": "2024-25",
+      "matchup": "OKC @ HOU",
+      "minutes": 36,
+      "points": 32,
+      "fga": 19,
+      "fg3a": 7
+    },
+    {
+      "game_id": "0022401153",
+      "date": "Apr 08, 2025",
+      "season": "2024-25",
+      "matchup": "OKC vs. LAL",
+      "minutes": 37,
+      "points": 42,
+      "fga": 26,
+      "fg3a": 9
+    },
+    {
+      "game_id": "0022401135",
+      "date": "Apr 06, 2025",
+      "season": "2024-25",
+      "matchup": "OKC vs. LAL",
+      "minutes": 30,
+      "points": 26,
+      "fga": 23,
+      "fg3a": 5
+    },
+    {
+      "game_id": "0022401123",
+      "date": "Apr 04, 2025",
+      "season": "2024-25",
+      "matchup": "OKC @ HOU",
+      "minutes": 35,
+      "points": 22,
+      "fga": 22,
+      "fg3a": 6
+    },
+    {
+      "game_id": "0022401108",
+      "date": "Apr 02, 2025",
+      "season": "2024-25",
+      "matchup": "OKC vs. DET",
+      "minutes": 35,
+      "points": 33,
+      "fga": 26,
+      "fg3a": 7
+    }
+  ]
+}
