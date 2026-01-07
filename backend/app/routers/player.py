@@ -84,6 +84,8 @@ def get_player(player_id: int):
     return {
         "player_id": raw_data.get("player_id"),
         "player_name": raw_data.get("player_name"),
+        "team_id": raw_data.get("team_id"), 
+        "team_name": raw_data.get("team_name"),
         "line": 25.5,
         "scenarios": analysis,
     }

@@ -1,6 +1,10 @@
 {
   "player_id": 1626164,
   "player_name": "Devin Booker",
+  "team_id": 1610612756,
+  "team_name": "Suns",
+  "team_city": "Phoenix",
+  "team_abbreviation": "PHX",
   "games": [
     {
       "game_id": "0022500025",

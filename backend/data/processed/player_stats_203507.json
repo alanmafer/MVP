@@ -1,6 +1,10 @@
 {
   "player_id": 203507,
   "player_name": "Giannis Antetokounmpo",
+  "team_id": 1610612749,
+  "team_name": "Bucks",
+  "team_city": "Milwaukee",
+  "team_abbreviation": "MIL",
   "games": [
     {
       "game_id": "0022400128",

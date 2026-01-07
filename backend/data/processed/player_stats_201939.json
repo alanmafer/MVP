@@ -1,6 +1,10 @@
 {
   "player_id": 201939,
   "player_name": "Stephen Curry",
+  "team_id": 1610612744,
+  "team_name": "Warriors",
+  "team_city": "Golden State",
+  "team_abbreviation": "GSW",
   "games": [
     {
       "game_id": "0022500139",

@@ -1,6 +1,10 @@
 {
   "player_id": 201142,
   "player_name": "Kevin Durant",
+  "team_id": 1610612745,
+  "team_name": "Rockets",
+  "team_city": "Houston",
+  "team_abbreviation": "HOU",
   "games": [
     {
       "game_id": "0022400131",

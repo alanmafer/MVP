@@ -1,6 +1,10 @@
 {
   "player_id": 1629027,
   "player_name": "Trae Young",
+  "team_id": 1610612737,
+  "team_name": "Hawks",
+  "team_city": "Atlanta",
+  "team_abbreviation": "ATL",
   "games": [
     {
       "game_id": "0022400121",

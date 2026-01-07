@@ -1,6 +1,10 @@
 {
   "player_id": 1629029,
   "player_name": "Luka Don\u010di\u0107",
+  "team_id": 1610612747,
+  "team_name": "Lakers",
+  "team_city": "Los Angeles",
+  "team_abbreviation": "LAL",
   "games": [
     {
       "game_id": "0022500024",

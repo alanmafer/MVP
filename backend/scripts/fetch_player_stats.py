@@ -1,11 +1,18 @@
 import json
 from app.services.nba_client import get_player_game_log, get_player_name
-
+from app.services.nba_client import (
+    get_player_game_log,
+    get_player_name,
+    get_player_team_id,
+    get_player_team_info
+)
 
 def fetch_player(player_id: int):
     SEASONS = ["2024-25", "2025-26"]
     all_games = []
     player_name = get_player_name(player_id)
+    team_id = get_player_team_id(player_id)
+    team_info = get_player_team_info(player_id)
 
     for season in SEASONS:
         print(f"Fetching season {season}...")
@@ -55,6 +62,11 @@ def fetch_player(player_id: int):
     output = {
         "player_id": player_id,
         "player_name": player_name,
+        "team_id": team_info["team_id"],
+        "team_name": team_info["team_name"],
+        "team_city": team_info["team_city"],
+        "team_abbreviation": team_info["team_abbreviation"],
+        "team_id": team_id,
         "games": all_games,
     }
 

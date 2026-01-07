@@ -1,6 +1,10 @@
 {
   "player_id": 203999,
   "player_name": "Nikola Joki\u0107",
+  "team_id": 1610612743,
+  "team_name": "Nuggets",
+  "team_city": "Denver",
+  "team_abbreviation": "DEN",
   "games": [
     {
       "game_id": "0022500026",

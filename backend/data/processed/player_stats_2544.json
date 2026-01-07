@@ -1,6 +1,10 @@
 {
   "player_id": 2544,
   "player_name": "LeBron James",
+  "team_id": 1610612747,
+  "team_name": "Lakers",
+  "team_city": "Los Angeles",
+  "team_abbreviation": "LAL",
   "games": [
     {
       "game_id": "0022400118",

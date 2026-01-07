@@ -1,6 +1,10 @@
 {
   "player_id": 1628983,
   "player_name": "Shai Gilgeous-Alexander",
+  "team_id": 1610612760,
+  "team_name": "Thunder",
+  "team_city": "Oklahoma City",
+  "team_abbreviation": "OKC",
   "games": [
     {
       "game_id": "0022500140",

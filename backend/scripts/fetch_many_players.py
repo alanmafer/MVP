@@ -11,6 +11,7 @@ PLAYER_IDS = [
     1628983, # Shai Gilgeous-Alexander
     201142,  # Kevin Durant
     1626164, # Devin Booker
+    203999, # Nikola Jovic
 ]
 
 SLEEP_SECONDS = 1.5  # evita rate limit da NBA API
